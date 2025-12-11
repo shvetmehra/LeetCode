@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/shvetmehra/LeedCode/tree/master/0066-plus-one) |
 | [2037-count-square-sum-triples](https://github.com/shvetmehra/LeedCode/tree/master/2037-count-square-sum-triples) |
 ## Enumeration
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shvetmehra/LeedCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0066-plus-one](https://github.com/shvetmehra/LeedCode/tree/master/0066-plus-one) |
 ## Binary Search
 |  |
 | ------- |
