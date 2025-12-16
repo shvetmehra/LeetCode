@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shvetmehra/LeedCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/shvetmehra/LeedCode/tree/master/0066-plus-one) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shvetmehra/LeedCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shvetmehra/LeedCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/shvetmehra/LeedCode/tree/master/0645-set-mismatch) |
 | [0948-sort-an-array](https://github.com/shvetmehra/LeedCode/tree/master/0948-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shvetmehra/LeedCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shvetmehra/LeedCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/shvetmehra/LeedCode/tree/master/0645-set-mismatch) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shvetmehra/LeedCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bit Manipulation
