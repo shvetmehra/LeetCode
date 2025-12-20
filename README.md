@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/shvetmehra/LeedCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/shvetmehra/LeedCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/shvetmehra/LeedCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0981-delete-columns-to-make-sorted](https://github.com/shvetmehra/LeedCode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shvetmehra/LeedCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/shvetmehra/LeedCode/tree/master/1894-merge-strings-alternately) |
 ## Array
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/shvetmehra/LeedCode/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/shvetmehra/LeedCode/tree/master/0645-set-mismatch) |
 | [0948-sort-an-array](https://github.com/shvetmehra/LeedCode/tree/master/0948-sort-an-array) |
+| [0981-delete-columns-to-make-sorted](https://github.com/shvetmehra/LeedCode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shvetmehra/LeedCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/shvetmehra/LeedCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Binary Search
