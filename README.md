@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/shvetmehra/LeedCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/shvetmehra/LeedCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shvetmehra/LeedCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/shvetmehra/LeedCode/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/shvetmehra/LeedCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/shvetmehra/LeedCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1894-merge-strings-alternately](https://github.com/shvetmehra/LeedCode/tree/master/1894-merge-strings-alternately) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/shvetmehra/LeedCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/shvetmehra/LeedCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shvetmehra/LeedCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/shvetmehra/LeedCode/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/shvetmehra/LeedCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/shvetmehra/LeedCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0981-delete-columns-to-make-sorted](https://github.com/shvetmehra/LeedCode/tree/master/0981-delete-columns-to-make-sorted) |
