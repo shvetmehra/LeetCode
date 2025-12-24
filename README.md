@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shvetmehra/LeedCode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/shvetmehra/LeedCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shvetmehra/LeedCode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/shvetmehra/LeedCode/tree/master/0283-move-zeroes) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shvetmehra/LeedCode/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shvetmehra/LeedCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/shvetmehra/LeedCode/tree/master/0066-plus-one) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shvetmehra/LeedCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shvetmehra/LeedCode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/shvetmehra/LeedCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/shvetmehra/LeedCode/tree/master/0605-can-place-flowers) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/shvetmehra/LeedCode/tree/master/0992-delete-columns-to-make-sorted-ii) |
