@@ -187,4 +187,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0757-pyramid-transition-matrix](https://github.com/shvetmehra/LeedCode/tree/master/0757-pyramid-transition-matrix) |
+## Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/shvetmehra/LeedCode/tree/master/0783-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/shvetmehra/LeedCode/tree/master/0783-search-in-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/shvetmehra/LeedCode/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
