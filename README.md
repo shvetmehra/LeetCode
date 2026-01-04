@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-delete-columns-to-make-sorted](https://github.com/shvetmehra/LeedCode/tree/master/0981-delete-columns-to-make-sorted) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/shvetmehra/LeedCode/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1044-find-common-characters](https://github.com/shvetmehra/LeedCode/tree/master/1044-find-common-characters) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/shvetmehra/LeedCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shvetmehra/LeedCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/shvetmehra/LeedCode/tree/master/1250-longest-common-subsequence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shvetmehra/LeedCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -258,5 +259,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/shvetmehra/LeedCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/shvetmehra/LeedCode/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
