@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/shvetmehra/LeedCode/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/shvetmehra/LeedCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/shvetmehra/LeedCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0649-dota2-senate](https://github.com/shvetmehra/LeedCode/tree/master/0649-dota2-senate) |
 | [0757-pyramid-transition-matrix](https://github.com/shvetmehra/LeedCode/tree/master/0757-pyramid-transition-matrix) |
 | [0981-delete-columns-to-make-sorted](https://github.com/shvetmehra/LeedCode/tree/master/0981-delete-columns-to-make-sorted) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/shvetmehra/LeedCode/tree/master/0992-delete-columns-to-make-sorted-ii) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/shvetmehra/LeedCode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/shvetmehra/LeedCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/shvetmehra/LeedCode/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/shvetmehra/LeedCode/tree/master/0649-dota2-senate) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/shvetmehra/LeedCode/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [2089-maximum-matrix-sum](https://github.com/shvetmehra/LeedCode/tree/master/2089-maximum-matrix-sum) |
 | [3334-apple-redistribution-into-boxes](https://github.com/shvetmehra/LeedCode/tree/master/3334-apple-redistribution-into-boxes) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/shvetmehra/LeedCode/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/shvetmehra/LeedCode/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
