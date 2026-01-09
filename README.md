@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/shvetmehra/LeedCode/tree/master/0645-set-mismatch) |
 | [0757-pyramid-transition-matrix](https://github.com/shvetmehra/LeedCode/tree/master/0757-pyramid-transition-matrix) |
 | [0870-magic-squares-in-grid](https://github.com/shvetmehra/LeedCode/tree/master/0870-magic-squares-in-grid) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shvetmehra/LeedCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/shvetmehra/LeedCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/shvetmehra/LeedCode/tree/master/1044-find-common-characters) |
 | [1319-unique-number-of-occurrences](https://github.com/shvetmehra/LeedCode/tree/master/1319-unique-number-of-occurrences) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/shvetmehra/LeedCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shvetmehra/LeedCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shvetmehra/LeedCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/shvetmehra/LeedCode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 ## Binary Search Tree
@@ -263,17 +265,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/shvetmehra/LeedCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shvetmehra/LeedCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shvetmehra/LeedCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/shvetmehra/LeedCode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shvetmehra/LeedCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shvetmehra/LeedCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/shvetmehra/LeedCode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/shvetmehra/LeedCode/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shvetmehra/LeedCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shvetmehra/LeedCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/shvetmehra/LeedCode/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Union Find
