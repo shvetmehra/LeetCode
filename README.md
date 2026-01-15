@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2102-find-the-middle-index-in-array](https://github.com/shvetmehra/LeedCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/shvetmehra/LeedCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2479-meeting-rooms-iii](https://github.com/shvetmehra/LeedCode/tree/master/2479-meeting-rooms-iii) |
+| [3214-maximize-area-of-square-hole-in-grid](https://github.com/shvetmehra/LeedCode/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3226-minimum-number-game](https://github.com/shvetmehra/LeedCode/tree/master/3226-minimum-number-game) |
 | [3334-apple-redistribution-into-boxes](https://github.com/shvetmehra/LeedCode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/shvetmehra/LeedCode/tree/master/3351-maximize-happiness-of-selected-children) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/shvetmehra/LeedCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shvetmehra/LeedCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2479-meeting-rooms-iii](https://github.com/shvetmehra/LeedCode/tree/master/2479-meeting-rooms-iii) |
+| [3214-maximize-area-of-square-hole-in-grid](https://github.com/shvetmehra/LeedCode/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3226-minimum-number-game](https://github.com/shvetmehra/LeedCode/tree/master/3226-minimum-number-game) |
 | [3334-apple-redistribution-into-boxes](https://github.com/shvetmehra/LeedCode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/shvetmehra/LeedCode/tree/master/3351-maximize-happiness-of-selected-children) |
