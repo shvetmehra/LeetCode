@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/shvetmehra/LeedCode/tree/master/0085-maximal-rectangle) |
+| [0232-implement-queue-using-stacks](https://github.com/shvetmehra/LeedCode/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/shvetmehra/LeedCode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/shvetmehra/LeedCode/tree/master/0735-asteroid-collision) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/shvetmehra/LeedCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -346,10 +347,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/shvetmehra/LeedCode/tree/master/0232-implement-queue-using-stacks) |
 | [0969-number-of-recent-calls](https://github.com/shvetmehra/LeedCode/tree/master/0969-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/shvetmehra/LeedCode/tree/master/0232-implement-queue-using-stacks) |
 | [0649-dota2-senate](https://github.com/shvetmehra/LeedCode/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/shvetmehra/LeedCode/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
