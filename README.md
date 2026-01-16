@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/shvetmehra/LeedCode/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/shvetmehra/LeedCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/shvetmehra/LeedCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0874-backspace-string-compare](https://github.com/shvetmehra/LeedCode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/shvetmehra/LeedCode/tree/master/0908-middle-of-the-linked-list) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shvetmehra/LeedCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/shvetmehra/LeedCode/tree/master/1894-merge-strings-alternately) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/shvetmehra/LeedCode/tree/master/0649-dota2-senate) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/shvetmehra/LeedCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0757-pyramid-transition-matrix](https://github.com/shvetmehra/LeedCode/tree/master/0757-pyramid-transition-matrix) |
+| [0874-backspace-string-compare](https://github.com/shvetmehra/LeedCode/tree/master/0874-backspace-string-compare) |
 | [0981-delete-columns-to-make-sorted](https://github.com/shvetmehra/LeedCode/tree/master/0981-delete-columns-to-make-sorted) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/shvetmehra/LeedCode/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1044-find-common-characters](https://github.com/shvetmehra/LeedCode/tree/master/1044-find-common-characters) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/shvetmehra/LeedCode/tree/master/0735-asteroid-collision) |
+| [0874-backspace-string-compare](https://github.com/shvetmehra/LeedCode/tree/master/0874-backspace-string-compare) |
 | [2428-equal-row-and-column-pairs](https://github.com/shvetmehra/LeedCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/shvetmehra/LeedCode/tree/master/2470-removing-stars-from-a-string) |
 | [2479-meeting-rooms-iii](https://github.com/shvetmehra/LeedCode/tree/master/2479-meeting-rooms-iii) |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/shvetmehra/LeedCode/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/shvetmehra/LeedCode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/shvetmehra/LeedCode/tree/master/0735-asteroid-collision) |
+| [0874-backspace-string-compare](https://github.com/shvetmehra/LeedCode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/shvetmehra/LeedCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/shvetmehra/LeedCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/shvetmehra/LeedCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
