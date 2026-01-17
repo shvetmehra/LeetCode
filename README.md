@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shvetmehra/LeedCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/shvetmehra/LeedCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/shvetmehra/LeedCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shvetmehra/LeedCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-leaf-similar-trees](https://github.com/shvetmehra/LeedCode/tree/master/0904-leaf-similar-trees) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shvetmehra/LeedCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/shvetmehra/LeedCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/shvetmehra/LeedCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shvetmehra/LeedCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-leaf-similar-trees](https://github.com/shvetmehra/LeedCode/tree/master/0904-leaf-similar-trees) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shvetmehra/LeedCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/shvetmehra/LeedCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shvetmehra/LeedCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-leaf-similar-trees](https://github.com/shvetmehra/LeedCode/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shvetmehra/LeedCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/shvetmehra/LeedCode/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/shvetmehra/LeedCode/tree/master/0085-maximal-rectangle) |
+| [0144-binary-tree-preorder-traversal](https://github.com/shvetmehra/LeedCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/shvetmehra/LeedCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shvetmehra/LeedCode/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/shvetmehra/LeedCode/tree/master/0394-decode-string) |
