@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/shvetmehra/LeedCode/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3334-apple-redistribution-into-boxes](https://github.com/shvetmehra/LeedCode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/shvetmehra/LeedCode/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3605-construct-the-minimum-bitwise-array-i](https://github.com/shvetmehra/LeedCode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3775-separate-squares-ii](https://github.com/shvetmehra/LeedCode/tree/master/3775-separate-squares-ii) |
 ## Binary Search
 |  |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0645-set-mismatch](https://github.com/shvetmehra/LeedCode/tree/master/0645-set-mismatch) |
 | [0757-pyramid-transition-matrix](https://github.com/shvetmehra/LeedCode/tree/master/0757-pyramid-transition-matrix) |
+| [3605-construct-the-minimum-bitwise-array-i](https://github.com/shvetmehra/LeedCode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 ## Greedy
 |  |
 | ------- |
