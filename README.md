@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/shvetmehra/LeedCode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/shvetmehra/LeedCode/tree/master/0085-maximal-rectangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shvetmehra/LeedCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/shvetmehra/LeedCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/shvetmehra/LeedCode/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/shvetmehra/LeedCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/shvetmehra/LeedCode/tree/master/0283-move-zeroes) |
@@ -151,10 +152,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/shvetmehra/LeedCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/shvetmehra/LeedCode/tree/master/0948-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/shvetmehra/LeedCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/shvetmehra/LeedCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shvetmehra/LeedCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0645-set-mismatch](https://github.com/shvetmehra/LeedCode/tree/master/0645-set-mismatch) |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/shvetmehra/LeedCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/shvetmehra/LeedCode/tree/master/0948-sort-an-array) |
 | [2479-meeting-rooms-iii](https://github.com/shvetmehra/LeedCode/tree/master/2479-meeting-rooms-iii) |
 | [3226-minimum-number-game](https://github.com/shvetmehra/LeedCode/tree/master/3226-minimum-number-game) |
@@ -470,4 +474,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3775-separate-squares-ii](https://github.com/shvetmehra/LeedCode/tree/master/3775-separate-squares-ii) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/shvetmehra/LeedCode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
