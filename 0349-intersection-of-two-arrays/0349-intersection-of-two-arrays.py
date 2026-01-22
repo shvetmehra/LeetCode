@@ -5,18 +5,7 @@ class Solution(object):
         :type nums2: List[int]
         :rtype: List[int]
         """
-        map1 = {}
-        for n in nums1:
-            map1[n] = True
-        
-        map2 = {}
-        for n in nums2:
-            map2[n] = True
-        
-        ans = []
-        for n in map1:
-            if n in map2:
-                ans.append(n)
-        
-        return ans
+        set1 = set(nums1)
+        set2 = set(nums2)
+        return list(set1.intersection(set2))
         
