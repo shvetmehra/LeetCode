@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/shvetmehra/LeedCode/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/shvetmehra/LeedCode/tree/master/0645-set-mismatch) |
 | [0757-pyramid-transition-matrix](https://github.com/shvetmehra/LeedCode/tree/master/0757-pyramid-transition-matrix) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/shvetmehra/LeedCode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/shvetmehra/LeedCode/tree/master/0085-maximal-rectangle) |
+| [0338-counting-bits](https://github.com/shvetmehra/LeedCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/shvetmehra/LeedCode/tree/master/0392-is-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/shvetmehra/LeedCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1250-longest-common-subsequence](https://github.com/shvetmehra/LeedCode/tree/master/1250-longest-common-subsequence) |
