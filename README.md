@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-maximum-matrix-sum](https://github.com/shvetmehra/LeedCode/tree/master/2089-maximum-matrix-sum) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/shvetmehra/LeedCode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2102-find-the-middle-index-in-array](https://github.com/shvetmehra/LeedCode/tree/master/2102-find-the-middle-index-in-array) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shvetmehra/LeedCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/shvetmehra/LeedCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/shvetmehra/LeedCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2479-meeting-rooms-iii](https://github.com/shvetmehra/LeedCode/tree/master/2479-meeting-rooms-iii) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/shvetmehra/LeedCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shvetmehra/LeedCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/shvetmehra/LeedCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shvetmehra/LeedCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/shvetmehra/LeedCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2479-meeting-rooms-iii](https://github.com/shvetmehra/LeedCode/tree/master/2479-meeting-rooms-iii) |
 | [2836-neither-minimum-nor-maximum](https://github.com/shvetmehra/LeedCode/tree/master/2836-neither-minimum-nor-maximum) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shvetmehra/LeedCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shvetmehra/LeedCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/shvetmehra/LeedCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shvetmehra/LeedCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Simulation
 |  |
 | ------- |
