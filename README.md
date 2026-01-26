@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/shvetmehra/LeedCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1127-last-stone-weight](https://github.com/shvetmehra/LeedCode/tree/master/1127-last-stone-weight) |
 | [1284-four-divisors](https://github.com/shvetmehra/LeedCode/tree/master/1284-four-divisors) |
+| [1306-minimum-absolute-difference](https://github.com/shvetmehra/LeedCode/tree/master/1306-minimum-absolute-difference) |
 | [1311-largest-magic-square](https://github.com/shvetmehra/LeedCode/tree/master/1311-largest-magic-square) |
 | [1319-unique-number-of-occurrences](https://github.com/shvetmehra/LeedCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/shvetmehra/LeedCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/shvetmehra/LeedCode/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/shvetmehra/LeedCode/tree/master/0645-set-mismatch) |
 | [0948-sort-an-array](https://github.com/shvetmehra/LeedCode/tree/master/0948-sort-an-array) |
+| [1306-minimum-absolute-difference](https://github.com/shvetmehra/LeedCode/tree/master/1306-minimum-absolute-difference) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shvetmehra/LeedCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1777-determine-if-two-strings-are-close](https://github.com/shvetmehra/LeedCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shvetmehra/LeedCode/tree/master/1798-max-number-of-k-sum-pairs) |
