@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/shvetmehra/LeedCode/tree/master/0085-maximal-rectangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shvetmehra/LeedCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shvetmehra/LeedCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/shvetmehra/LeedCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shvetmehra/LeedCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/shvetmehra/LeedCode/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/shvetmehra/LeedCode/tree/master/0238-product-of-array-except-self) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/shvetmehra/LeedCode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/shvetmehra/LeedCode/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/shvetmehra/LeedCode/tree/master/0200-number-of-islands) |
 | [0870-magic-squares-in-grid](https://github.com/shvetmehra/LeedCode/tree/master/0870-magic-squares-in-grid) |
 | [1311-largest-magic-square](https://github.com/shvetmehra/LeedCode/tree/master/1311-largest-magic-square) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/shvetmehra/LeedCode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/shvetmehra/LeedCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shvetmehra/LeedCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shvetmehra/LeedCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/shvetmehra/LeedCode/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shvetmehra/LeedCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/shvetmehra/LeedCode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/shvetmehra/LeedCode/tree/master/0543-diameter-of-binary-tree) |
@@ -472,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/shvetmehra/LeedCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/shvetmehra/LeedCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/shvetmehra/LeedCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/shvetmehra/LeedCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/shvetmehra/LeedCode/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shvetmehra/LeedCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shvetmehra/LeedCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
@@ -559,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/shvetmehra/LeedCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/shvetmehra/LeedCode/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
