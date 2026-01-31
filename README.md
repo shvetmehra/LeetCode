@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/shvetmehra/LeedCode/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/shvetmehra/LeedCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/shvetmehra/LeedCode/tree/master/0735-asteroid-collision) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/shvetmehra/LeedCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0870-magic-squares-in-grid](https://github.com/shvetmehra/LeedCode/tree/master/0870-magic-squares-in-grid) |
 | [0948-sort-an-array](https://github.com/shvetmehra/LeedCode/tree/master/0948-sort-an-array) |
 | [0981-delete-columns-to-make-sorted](https://github.com/shvetmehra/LeedCode/tree/master/0981-delete-columns-to-make-sorted) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/shvetmehra/LeedCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shvetmehra/LeedCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/shvetmehra/LeedCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/shvetmehra/LeedCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1046-max-consecutive-ones-iii](https://github.com/shvetmehra/LeedCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/shvetmehra/LeedCode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/shvetmehra/LeedCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
