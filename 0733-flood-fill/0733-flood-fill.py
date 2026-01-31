@@ -1,3 +1,5 @@
+from copy import deepcopy
+from collections import deque
 class Solution(object):
     def floodFill(self, image, sr, sc, color):
         """
@@ -7,25 +9,25 @@ class Solution(object):
         :type color: int
         :rtype: List[List[int]]
         """
-        rows,cols = len(image), len(image[0])
-        initial_color = image[sr][sc]
-
-        if initial_color == color:
+        #BFS
+        if image[sr][sc]==color:
             return image
+        visited = deepcopy(image)
+        rows,cols = len(visited),len(visited[0])
+        initial_color = visited[sr][sc]
+        queue = deque()
+        queue.append((sr,sc))
 
-        def dfs(i,j):
-            if i<0 or i>=rows or j<0 or j>=cols:
-                return
-            if image[i][j] == color:
-                return
-            if image[i][j] != initial_color:
-                return
-        
-            image[i][j]=color
-            dfs(i,j+1)
-            dfs(i,j-1)
-            dfs(i+1,j)
-            dfs(i-1,j)
-        dfs(sr,sc)
-        return image
-    
+        while len(queue)!=0:
+            i,j = queue.popleft()
+            visited[i][j]=color
+            for x,y in [(0,1), (1,0), (-1,0), (0,-1)]:
+                newi = i+x
+                newj = j+y
+                if newi <0 or newi>=rows or newj<0 or newj>=cols:
+                    continue
+                if visited[newi][newj]!=initial_color:
+                    continue
+                queue.append((newi,newj))
+        return visited  
+
