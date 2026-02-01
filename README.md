@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2037-count-square-sum-triples](https://github.com/shvetmehra/LeedCode/tree/master/2037-count-square-sum-triples) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/shvetmehra/LeedCode/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/shvetmehra/LeedCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3226-minimum-number-game](https://github.com/shvetmehra/LeedCode/tree/master/3226-minimum-number-game) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/shvetmehra/LeedCode/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/shvetmehra/LeedCode/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/shvetmehra/LeedCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/shvetmehra/LeedCode/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3334-apple-redistribution-into-boxes](https://github.com/shvetmehra/LeedCode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/shvetmehra/LeedCode/tree/master/3351-maximize-happiness-of-selected-children) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2836-neither-minimum-nor-maximum](https://github.com/shvetmehra/LeedCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/shvetmehra/LeedCode/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3226-minimum-number-game](https://github.com/shvetmehra/LeedCode/tree/master/3226-minimum-number-game) |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/shvetmehra/LeedCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/shvetmehra/LeedCode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/shvetmehra/LeedCode/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Heap (Priority Queue)
