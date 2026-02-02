@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/shvetmehra/LeedCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/shvetmehra/LeedCode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/shvetmehra/LeedCode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/shvetmehra/LeedCode/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/shvetmehra/LeedCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0870-magic-squares-in-grid](https://github.com/shvetmehra/LeedCode/tree/master/0870-magic-squares-in-grid) |
 | [0948-sort-an-array](https://github.com/shvetmehra/LeedCode/tree/master/0948-sort-an-array) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/shvetmehra/LeedCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shvetmehra/LeedCode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/shvetmehra/LeedCode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/shvetmehra/LeedCode/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/shvetmehra/LeedCode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/shvetmehra/LeedCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/shvetmehra/LeedCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/shvetmehra/LeedCode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/shvetmehra/LeedCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shvetmehra/LeedCode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/shvetmehra/LeedCode/tree/master/0739-daily-temperatures) |
 ## Geometry
 |  |
 | ------- |
