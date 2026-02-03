@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/shvetmehra/LeedCode/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/shvetmehra/LeedCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3775-separate-squares-ii](https://github.com/shvetmehra/LeedCode/tree/master/3775-separate-squares-ii) |
+| [3952-trionic-array-i](https://github.com/shvetmehra/LeedCode/tree/master/3952-trionic-array-i) |
 ## Binary Search
 |  |
 | ------- |
