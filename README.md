@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/shvetmehra/LeedCode/tree/master/1036-rotting-oranges) |
 | [1044-find-common-characters](https://github.com/shvetmehra/LeedCode/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/shvetmehra/LeedCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1073-number-of-enclaves](https://github.com/shvetmehra/LeedCode/tree/master/1073-number-of-enclaves) |
 | [1127-last-stone-weight](https://github.com/shvetmehra/LeedCode/tree/master/1127-last-stone-weight) |
 | [1284-four-divisors](https://github.com/shvetmehra/LeedCode/tree/master/1284-four-divisors) |
 | [1306-minimum-absolute-difference](https://github.com/shvetmehra/LeedCode/tree/master/1306-minimum-absolute-difference) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/shvetmehra/LeedCode/tree/master/0733-flood-fill) |
 | [0870-magic-squares-in-grid](https://github.com/shvetmehra/LeedCode/tree/master/0870-magic-squares-in-grid) |
 | [1036-rotting-oranges](https://github.com/shvetmehra/LeedCode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/shvetmehra/LeedCode/tree/master/1073-number-of-enclaves) |
 | [1311-largest-magic-square](https://github.com/shvetmehra/LeedCode/tree/master/1311-largest-magic-square) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/shvetmehra/LeedCode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/shvetmehra/LeedCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/shvetmehra/LeedCode/tree/master/0871-keys-and-rooms) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shvetmehra/LeedCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-leaf-similar-trees](https://github.com/shvetmehra/LeedCode/tree/master/0904-leaf-similar-trees) |
+| [1073-number-of-enclaves](https://github.com/shvetmehra/LeedCode/tree/master/1073-number-of-enclaves) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shvetmehra/LeedCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/shvetmehra/LeedCode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/shvetmehra/LeedCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -518,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/shvetmehra/LeedCode/tree/master/0871-keys-and-rooms) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shvetmehra/LeedCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1036-rotting-oranges](https://github.com/shvetmehra/LeedCode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/shvetmehra/LeedCode/tree/master/1073-number-of-enclaves) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shvetmehra/LeedCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/shvetmehra/LeedCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/shvetmehra/LeedCode/tree/master/2101-last-day-where-you-can-still-cross) |
@@ -608,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/shvetmehra/LeedCode/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/shvetmehra/LeedCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/shvetmehra/LeedCode/tree/master/0547-number-of-provinces) |
+| [1073-number-of-enclaves](https://github.com/shvetmehra/LeedCode/tree/master/1073-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
