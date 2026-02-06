@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3775-separate-squares-ii](https://github.com/shvetmehra/LeedCode/tree/master/3775-separate-squares-ii) |
 | [3952-trionic-array-i](https://github.com/shvetmehra/LeedCode/tree/master/3952-trionic-array-i) |
 | [3956-trionic-array-ii](https://github.com/shvetmehra/LeedCode/tree/master/3956-trionic-array-ii) |
+| [3958-minimum-removals-to-balance-array](https://github.com/shvetmehra/LeedCode/tree/master/3958-minimum-removals-to-balance-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/shvetmehra/LeedCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/shvetmehra/LeedCode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/shvetmehra/LeedCode/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3958-minimum-removals-to-balance-array](https://github.com/shvetmehra/LeedCode/tree/master/3958-minimum-removals-to-balance-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/shvetmehra/LeedCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shvetmehra/LeedCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/shvetmehra/LeedCode/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3958-minimum-removals-to-balance-array](https://github.com/shvetmehra/LeedCode/tree/master/3958-minimum-removals-to-balance-array) |
 ## Simulation
 |  |
 | ------- |
