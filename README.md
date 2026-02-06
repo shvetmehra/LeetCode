@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/shvetmehra/LeedCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/shvetmehra/LeedCode/tree/master/1250-longest-common-subsequence) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/shvetmehra/LeedCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1397-search-suggestions-system](https://github.com/shvetmehra/LeedCode/tree/master/1397-search-suggestions-system) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shvetmehra/LeedCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/shvetmehra/LeedCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/shvetmehra/LeedCode/tree/master/1894-merge-strings-alternately) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/shvetmehra/LeedCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/shvetmehra/LeedCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1395-minimum-time-visiting-all-points](https://github.com/shvetmehra/LeedCode/tree/master/1395-minimum-time-visiting-all-points) |
+| [1397-search-suggestions-system](https://github.com/shvetmehra/LeedCode/tree/master/1397-search-suggestions-system) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/shvetmehra/LeedCode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/shvetmehra/LeedCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shvetmehra/LeedCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/shvetmehra/LeedCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/shvetmehra/LeedCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1046-max-consecutive-ones-iii](https://github.com/shvetmehra/LeedCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1397-search-suggestions-system](https://github.com/shvetmehra/LeedCode/tree/master/1397-search-suggestions-system) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/shvetmehra/LeedCode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/shvetmehra/LeedCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/shvetmehra/LeedCode/tree/master/2101-last-day-where-you-can-still-cross) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/shvetmehra/LeedCode/tree/master/0645-set-mismatch) |
 | [0948-sort-an-array](https://github.com/shvetmehra/LeedCode/tree/master/0948-sort-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/shvetmehra/LeedCode/tree/master/1306-minimum-absolute-difference) |
+| [1397-search-suggestions-system](https://github.com/shvetmehra/LeedCode/tree/master/1397-search-suggestions-system) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shvetmehra/LeedCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1777-determine-if-two-strings-are-close](https://github.com/shvetmehra/LeedCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shvetmehra/LeedCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -235,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/shvetmehra/LeedCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/shvetmehra/LeedCode/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/shvetmehra/LeedCode/tree/master/1127-last-stone-weight) |
+| [1397-search-suggestions-system](https://github.com/shvetmehra/LeedCode/tree/master/1397-search-suggestions-system) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/shvetmehra/LeedCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2479-meeting-rooms-iii](https://github.com/shvetmehra/LeedCode/tree/master/2479-meeting-rooms-iii) |
 | [3226-minimum-number-game](https://github.com/shvetmehra/LeedCode/tree/master/3226-minimum-number-game) |
@@ -652,5 +657,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [1397-search-suggestions-system](https://github.com/shvetmehra/LeedCode/tree/master/1397-search-suggestions-system) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/shvetmehra/LeedCode/tree/master/3238-minimum-cost-to-convert-string-ii) |
 <!---LeetCode Topics End-->
