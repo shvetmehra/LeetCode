@@ -15,15 +15,11 @@ class Solution(object):
             
             if node == None:
                 return 0
-
             leftH = solve(node.left)
             rightH = solve(node.right)
 
-            if leftH == -1 or rightH == -1:
+            if leftH == -1 or rightH == -1 or abs(leftH - rightH) > 1:
                 return -1
-
-            if abs(leftH - rightH)>1:
-                return -1
-                   
             return max(leftH, rightH)+1
         return solve(root)!=-1
+        
