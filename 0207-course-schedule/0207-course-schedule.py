@@ -10,8 +10,8 @@ class Solution(object):
         inDegree = [0 for _ in range (numCourses)]
 
         for u,v in prerequisites:
-            adjList[u].append(v)
-            inDegree[v]+=1
+            adjList[v].append(u)
+            inDegree[u]+=1
         queue = deque()
         result = []
 
