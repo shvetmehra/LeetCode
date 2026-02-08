@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/shvetmehra/LeedCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/shvetmehra/LeedCode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/shvetmehra/LeedCode/tree/master/0151-reverse-words-in-a-string) |
+| [0208-implement-trie-prefix-tree](https://github.com/shvetmehra/LeedCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/shvetmehra/LeedCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shvetmehra/LeedCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shvetmehra/LeedCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/shvetmehra/LeedCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shvetmehra/LeedCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shvetmehra/LeedCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0208-implement-trie-prefix-tree](https://github.com/shvetmehra/LeedCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/shvetmehra/LeedCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/shvetmehra/LeedCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shvetmehra/LeedCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/shvetmehra/LeedCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/shvetmehra/LeedCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shvetmehra/LeedCode/tree/master/0232-implement-queue-using-stacks) |
 | [0969-number-of-recent-calls](https://github.com/shvetmehra/LeedCode/tree/master/0969-number-of-recent-calls) |
@@ -660,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/shvetmehra/LeedCode/tree/master/0208-implement-trie-prefix-tree) |
 | [1397-search-suggestions-system](https://github.com/shvetmehra/LeedCode/tree/master/1397-search-suggestions-system) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/shvetmehra/LeedCode/tree/master/3238-minimum-cost-to-convert-string-ii) |
 <!---LeetCode Topics End-->
