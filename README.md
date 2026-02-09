@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shvetmehra/LeedCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/shvetmehra/LeedCode/tree/master/0948-sort-an-array) |
+| [1285-balance-a-binary-search-tree](https://github.com/shvetmehra/LeedCode/tree/master/1285-balance-a-binary-search-tree) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/shvetmehra/LeedCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Sorting
 |  |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/shvetmehra/LeedCode/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/shvetmehra/LeedCode/tree/master/0649-dota2-senate) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/shvetmehra/LeedCode/tree/master/0992-delete-columns-to-make-sorted-ii) |
+| [1285-balance-a-binary-search-tree](https://github.com/shvetmehra/LeedCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/shvetmehra/LeedCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2089-maximum-matrix-sum](https://github.com/shvetmehra/LeedCode/tree/master/2089-maximum-matrix-sum) |
 | [3334-apple-redistribution-into-boxes](https://github.com/shvetmehra/LeedCode/tree/master/3334-apple-redistribution-into-boxes) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shvetmehra/LeedCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-leaf-similar-trees](https://github.com/shvetmehra/LeedCode/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shvetmehra/LeedCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/shvetmehra/LeedCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/shvetmehra/LeedCode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/shvetmehra/LeedCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/shvetmehra/LeedCode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/shvetmehra/LeedCode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/shvetmehra/LeedCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/shvetmehra/LeedCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/shvetmehra/LeedCode/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -495,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shvetmehra/LeedCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-leaf-similar-trees](https://github.com/shvetmehra/LeedCode/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shvetmehra/LeedCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/shvetmehra/LeedCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/shvetmehra/LeedCode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/shvetmehra/LeedCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/shvetmehra/LeedCode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -526,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/shvetmehra/LeedCode/tree/master/0904-leaf-similar-trees) |
 | [1073-number-of-enclaves](https://github.com/shvetmehra/LeedCode/tree/master/1073-number-of-enclaves) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shvetmehra/LeedCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/shvetmehra/LeedCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/shvetmehra/LeedCode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/shvetmehra/LeedCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/shvetmehra/LeedCode/tree/master/1544-count-good-nodes-in-binary-tree) |
