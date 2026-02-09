@@ -7,21 +7,27 @@
 class Solution:
     def balanceBST(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
         ans = []
-        self.helper(root, ans)
-        return self.balanced(ans)
-    
-    def helper(self, root, ans):
-        if root is None:
-            return 
-        self.helper(root.left, ans)
-        ans.append(root.val)
-        self.helper(root.right, ans)
+        self.extracted_Sorted_elements(root, ans)
+        return self.bulid_balanced_tree(ans, 0, len(ans)-1)
 
-    def balanced(self, ans):
-        if not ans:
+    def extracted_Sorted_elements(self, root, ans):
+        if root is None:
             return
-        mid = len(ans)//2
+        self.extracted_Sorted_elements(root.left, ans)
+        ans.append(root.val)
+        self.extracted_Sorted_elements(root.right, ans)
+
+    def bulid_balanced_tree(self,ans, start, end):
+        if start>end:
+            return None
+        mid = (start+end)//2
         root = TreeNode(ans[mid])
-        root.left = self.balanced(ans[:mid])
-        root.right = self.balanced(ans[mid+1:])
+
+        root.left = self.bulid_balanced_tree(ans, start, mid-1)
+        root.right = self.bulid_balanced_tree(ans, mid+1, end)
+
         return root
+                
+
+
+        
