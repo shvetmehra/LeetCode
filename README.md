@@ -530,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/shvetmehra/LeedCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/shvetmehra/LeedCode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/shvetmehra/LeedCode/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/shvetmehra/LeedCode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/shvetmehra/LeedCode/tree/master/0871-keys-and-rooms) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shvetmehra/LeedCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-leaf-similar-trees](https://github.com/shvetmehra/LeedCode/tree/master/0904-leaf-similar-trees) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/shvetmehra/LeedCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/shvetmehra/LeedCode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/shvetmehra/LeedCode/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/shvetmehra/LeedCode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/shvetmehra/LeedCode/tree/master/0871-keys-and-rooms) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shvetmehra/LeedCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1036-rotting-oranges](https://github.com/shvetmehra/LeedCode/tree/master/1036-rotting-oranges) |
@@ -672,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/shvetmehra/LeedCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/shvetmehra/LeedCode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/shvetmehra/LeedCode/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/shvetmehra/LeedCode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/shvetmehra/LeedCode/tree/master/0871-keys-and-rooms) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/shvetmehra/LeedCode/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/shvetmehra/LeedCode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
@@ -692,4 +695,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/shvetmehra/LeedCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shvetmehra/LeedCode/tree/master/0210-course-schedule-ii) |
+| [0820-find-eventual-safe-states](https://github.com/shvetmehra/LeedCode/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
