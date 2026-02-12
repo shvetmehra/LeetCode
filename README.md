@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2576-minimum-penalty-for-a-shop](https://github.com/shvetmehra/LeedCode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/shvetmehra/LeedCode/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [4055-longest-balanced-substring-i](https://github.com/shvetmehra/LeedCode/tree/master/4055-longest-balanced-substring-i) |
+| [4056-longest-balanced-substring-ii](https://github.com/shvetmehra/LeedCode/tree/master/4056-longest-balanced-substring-ii) |
 ## Array
 |  |
 | ------- |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/shvetmehra/LeedCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [4045-longest-balanced-subarray-i](https://github.com/shvetmehra/LeedCode/tree/master/4045-longest-balanced-subarray-i) |
 | [4055-longest-balanced-substring-i](https://github.com/shvetmehra/LeedCode/tree/master/4055-longest-balanced-substring-i) |
+| [4056-longest-balanced-substring-ii](https://github.com/shvetmehra/LeedCode/tree/master/4056-longest-balanced-substring-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2102-find-the-middle-index-in-array](https://github.com/shvetmehra/LeedCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/shvetmehra/LeedCode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [4045-longest-balanced-subarray-i](https://github.com/shvetmehra/LeedCode/tree/master/4045-longest-balanced-subarray-i) |
+| [4056-longest-balanced-substring-ii](https://github.com/shvetmehra/LeedCode/tree/master/4056-longest-balanced-substring-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
