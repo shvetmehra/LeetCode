@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shvetmehra/LeedCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/shvetmehra/LeedCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/shvetmehra/LeedCode/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/shvetmehra/LeedCode/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/shvetmehra/LeedCode/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/shvetmehra/LeedCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/shvetmehra/LeedCode/tree/master/0127-word-ladder) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/shvetmehra/LeedCode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/shvetmehra/LeedCode/tree/master/0085-maximal-rectangle) |
 | [0338-counting-bits](https://github.com/shvetmehra/LeedCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/shvetmehra/LeedCode/tree/master/0392-is-subsequence) |
