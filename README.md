@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shvetmehra/LeedCode/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/shvetmehra/LeedCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/shvetmehra/LeedCode/tree/master/0066-plus-one) |
 | [0870-magic-squares-in-grid](https://github.com/shvetmehra/LeedCode/tree/master/0870-magic-squares-in-grid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shvetmehra/LeedCode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/shvetmehra/LeedCode/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/shvetmehra/LeedCode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/shvetmehra/LeedCode/tree/master/0085-maximal-rectangle) |
 | [0338-counting-bits](https://github.com/shvetmehra/LeedCode/tree/master/0338-counting-bits) |
@@ -715,4 +717,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/shvetmehra/LeedCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shvetmehra/LeedCode/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/shvetmehra/LeedCode/tree/master/0820-find-eventual-safe-states) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/shvetmehra/LeedCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
