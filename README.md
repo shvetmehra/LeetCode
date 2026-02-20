@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/shvetmehra/LeedCode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/shvetmehra/LeedCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0757-pyramid-transition-matrix](https://github.com/shvetmehra/LeedCode/tree/master/0757-pyramid-transition-matrix) |
+| [0763-special-binary-string](https://github.com/shvetmehra/LeedCode/tree/master/0763-special-binary-string) |
 | [0874-backspace-string-compare](https://github.com/shvetmehra/LeedCode/tree/master/0874-backspace-string-compare) |
 | [0981-delete-columns-to-make-sorted](https://github.com/shvetmehra/LeedCode/tree/master/0981-delete-columns-to-make-sorted) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/shvetmehra/LeedCode/tree/master/0992-delete-columns-to-make-sorted-ii) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/shvetmehra/LeedCode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shvetmehra/LeedCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0763-special-binary-string](https://github.com/shvetmehra/LeedCode/tree/master/0763-special-binary-string) |
 | [0948-sort-an-array](https://github.com/shvetmehra/LeedCode/tree/master/0948-sort-an-array) |
 | [1285-balance-a-binary-search-tree](https://github.com/shvetmehra/LeedCode/tree/master/1285-balance-a-binary-search-tree) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/shvetmehra/LeedCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/shvetmehra/LeedCode/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/shvetmehra/LeedCode/tree/master/0435-non-overlapping-intervals) |
 | [0645-set-mismatch](https://github.com/shvetmehra/LeedCode/tree/master/0645-set-mismatch) |
+| [0763-special-binary-string](https://github.com/shvetmehra/LeedCode/tree/master/0763-special-binary-string) |
 | [0948-sort-an-array](https://github.com/shvetmehra/LeedCode/tree/master/0948-sort-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/shvetmehra/LeedCode/tree/master/1306-minimum-absolute-difference) |
 | [1397-search-suggestions-system](https://github.com/shvetmehra/LeedCode/tree/master/1397-search-suggestions-system) |
