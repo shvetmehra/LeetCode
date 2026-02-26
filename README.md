@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/shvetmehra/LeedCode/tree/master/1250-longest-common-subsequence) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/shvetmehra/LeedCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1397-search-suggestions-system](https://github.com/shvetmehra/LeedCode/tree/master/1397-search-suggestions-system) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/shvetmehra/LeedCode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/shvetmehra/LeedCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shvetmehra/LeedCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/shvetmehra/LeedCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0899-binary-gap](https://github.com/shvetmehra/LeedCode/tree/master/0899-binary-gap) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/shvetmehra/LeedCode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/shvetmehra/LeedCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/shvetmehra/LeedCode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/shvetmehra/LeedCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/shvetmehra/LeedCode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/shvetmehra/LeedCode/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/shvetmehra/LeedCode/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/shvetmehra/LeedCode/tree/master/0874-backspace-string-compare) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/shvetmehra/LeedCode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2428-equal-row-and-column-pairs](https://github.com/shvetmehra/LeedCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/shvetmehra/LeedCode/tree/master/2470-removing-stars-from-a-string) |
 | [2479-meeting-rooms-iii](https://github.com/shvetmehra/LeedCode/tree/master/2479-meeting-rooms-iii) |
