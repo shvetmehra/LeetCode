@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shvetmehra/LeedCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/shvetmehra/LeedCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1777-determine-if-two-strings-are-close](https://github.com/shvetmehra/LeedCode/tree/master/1777-determine-if-two-strings-are-close) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/shvetmehra/LeedCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1894-merge-strings-alternately](https://github.com/shvetmehra/LeedCode/tree/master/1894-merge-strings-alternately) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/shvetmehra/LeedCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/shvetmehra/LeedCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shvetmehra/LeedCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/shvetmehra/LeedCode/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1285-balance-a-binary-search-tree](https://github.com/shvetmehra/LeedCode/tree/master/1285-balance-a-binary-search-tree) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/shvetmehra/LeedCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/shvetmehra/LeedCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2089-maximum-matrix-sum](https://github.com/shvetmehra/LeedCode/tree/master/2089-maximum-matrix-sum) |
 | [3334-apple-redistribution-into-boxes](https://github.com/shvetmehra/LeedCode/tree/master/3334-apple-redistribution-into-boxes) |
