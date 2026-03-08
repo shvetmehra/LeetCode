@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/shvetmehra/LeedCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0870-magic-squares-in-grid](https://github.com/shvetmehra/LeedCode/tree/master/0870-magic-squares-in-grid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shvetmehra/LeedCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1236-n-th-tribonacci-number](https://github.com/shvetmehra/LeedCode/tree/master/1236-n-th-tribonacci-number) |
 | [1284-four-divisors](https://github.com/shvetmehra/LeedCode/tree/master/1284-four-divisors) |
 | [1395-minimum-time-visiting-all-points](https://github.com/shvetmehra/LeedCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/shvetmehra/LeedCode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shvetmehra/LeedCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/shvetmehra/LeedCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0815-champagne-tower](https://github.com/shvetmehra/LeedCode/tree/master/0815-champagne-tower) |
+| [1236-n-th-tribonacci-number](https://github.com/shvetmehra/LeedCode/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/shvetmehra/LeedCode/tree/master/1250-longest-common-subsequence) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shvetmehra/LeedCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/shvetmehra/LeedCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -810,4 +812,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/shvetmehra/LeedCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/shvetmehra/LeedCode/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
