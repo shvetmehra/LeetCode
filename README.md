@@ -403,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2102-find-the-middle-index-in-array](https://github.com/shvetmehra/LeedCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/shvetmehra/LeedCode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [3406-find-all-possible-stable-binary-arrays-i](https://github.com/shvetmehra/LeedCode/tree/master/3406-find-all-possible-stable-binary-arrays-i) |
+| [3407-find-all-possible-stable-binary-arrays-ii](https://github.com/shvetmehra/LeedCode/tree/master/3407-find-all-possible-stable-binary-arrays-ii) |
 | [4045-longest-balanced-subarray-i](https://github.com/shvetmehra/LeedCode/tree/master/4045-longest-balanced-subarray-i) |
 | [4056-longest-balanced-substring-ii](https://github.com/shvetmehra/LeedCode/tree/master/4056-longest-balanced-substring-ii) |
 ## Dynamic Programming
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/shvetmehra/LeedCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/shvetmehra/LeedCode/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3406-find-all-possible-stable-binary-arrays-i](https://github.com/shvetmehra/LeedCode/tree/master/3406-find-all-possible-stable-binary-arrays-i) |
+| [3407-find-all-possible-stable-binary-arrays-ii](https://github.com/shvetmehra/LeedCode/tree/master/3407-find-all-possible-stable-binary-arrays-ii) |
 | [3956-trionic-array-ii](https://github.com/shvetmehra/LeedCode/tree/master/3956-trionic-array-ii) |
 ## Linked List
 |  |
