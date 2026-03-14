@@ -1,10 +1,6 @@
-class Solution(object):
-    def letterCombinations(self, digits):
-        """
-        :type digits: str
-        :rtype: List[str]
-        """
-        phone_keys = {
+class Solution:
+    def solve(self, index, subset, digits, result):
+        char_map = {
             '2': 'abc',
             '3': 'def',
             '4': 'ghi',
@@ -16,19 +12,14 @@ class Solution(object):
             '0': '',
             '1': ''
         }
-        ans = []
-        if digits == "":
-            return []
-
-        if len(digits)== 1:
-            return list(phone_keys[digits[0]])
-            
-        smallInputWords = self.letterCombinations(digits[1:])
-
-        keyLetters = phone_keys[digits[0]]
-
-        for char in keyLetters:
-            for words in smallInputWords:
-                ans.append(char + words)
-        return ans
-        
+        if index >=len(digits):
+            result.append(''.join(subset))
+            return
+        for char in char_map[digits[index]]:
+            subset.append(char)
+            self.solve(index+1, subset, digits, result)
+            subset.pop()
+    def letterCombinations(self, digits: str) -> List[str]:
+        result = []
+        self.solve(0, [], digits, result)
+        return result
