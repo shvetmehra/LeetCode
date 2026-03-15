@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/shvetmehra/LeedCode/tree/master/1236-n-th-tribonacci-number) |
 | [1284-four-divisors](https://github.com/shvetmehra/LeedCode/tree/master/1284-four-divisors) |
 | [1395-minimum-time-visiting-all-points](https://github.com/shvetmehra/LeedCode/tree/master/1395-minimum-time-visiting-all-points) |
+| [1728-fancy-sequence](https://github.com/shvetmehra/LeedCode/tree/master/1728-fancy-sequence) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/shvetmehra/LeedCode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [2037-count-square-sum-triples](https://github.com/shvetmehra/LeedCode/tree/master/2037-count-square-sum-triples) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/shvetmehra/LeedCode/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -729,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/shvetmehra/LeedCode/tree/master/0232-implement-queue-using-stacks) |
 | [0937-online-stock-span](https://github.com/shvetmehra/LeedCode/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/shvetmehra/LeedCode/tree/master/0969-number-of-recent-calls) |
+| [1728-fancy-sequence](https://github.com/shvetmehra/LeedCode/tree/master/1728-fancy-sequence) |
 ## Queue
 |  |
 | ------- |
@@ -758,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [1728-fancy-sequence](https://github.com/shvetmehra/LeedCode/tree/master/1728-fancy-sequence) |
 | [3775-separate-squares-ii](https://github.com/shvetmehra/LeedCode/tree/master/3775-separate-squares-ii) |
 | [4045-longest-balanced-subarray-i](https://github.com/shvetmehra/LeedCode/tree/master/4045-longest-balanced-subarray-i) |
 ## Line Sweep
