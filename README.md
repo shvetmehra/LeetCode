@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shvetmehra/LeedCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/shvetmehra/LeedCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [3399-find-the-integer-added-to-array-ii](https://github.com/shvetmehra/LeedCode/tree/master/3399-find-the-integer-added-to-array-ii) |
+| [3973-flip-square-submatrix-vertically](https://github.com/shvetmehra/LeedCode/tree/master/3973-flip-square-submatrix-vertically) |
 ## String
 |  |
 | ------- |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3952-trionic-array-i](https://github.com/shvetmehra/LeedCode/tree/master/3952-trionic-array-i) |
 | [3956-trionic-array-ii](https://github.com/shvetmehra/LeedCode/tree/master/3956-trionic-array-ii) |
 | [3958-minimum-removals-to-balance-array](https://github.com/shvetmehra/LeedCode/tree/master/3958-minimum-removals-to-balance-array) |
+| [3973-flip-square-submatrix-vertically](https://github.com/shvetmehra/LeedCode/tree/master/3973-flip-square-submatrix-vertically) |
 | [4045-longest-balanced-subarray-i](https://github.com/shvetmehra/LeedCode/tree/master/4045-longest-balanced-subarray-i) |
 ## Binary Search
 |  |
@@ -558,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/shvetmehra/LeedCode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/shvetmehra/LeedCode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/shvetmehra/LeedCode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
+| [3973-flip-square-submatrix-vertically](https://github.com/shvetmehra/LeedCode/tree/master/3973-flip-square-submatrix-vertically) |
 ## Backtracking
 |  |
 | ------- |
