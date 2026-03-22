@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shvetmehra/LeedCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/shvetmehra/LeedCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shvetmehra/LeedCode/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shvetmehra/LeedCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/shvetmehra/LeedCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2089-maximum-matrix-sum](https://github.com/shvetmehra/LeedCode/tree/master/2089-maximum-matrix-sum) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/shvetmehra/LeedCode/tree/master/2101-last-day-where-you-can-still-cross) |
@@ -553,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/shvetmehra/LeedCode/tree/master/1753-path-with-minimum-effort) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/shvetmehra/LeedCode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shvetmehra/LeedCode/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shvetmehra/LeedCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/shvetmehra/LeedCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2089-maximum-matrix-sum](https://github.com/shvetmehra/LeedCode/tree/master/2089-maximum-matrix-sum) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/shvetmehra/LeedCode/tree/master/2101-last-day-where-you-can-still-cross) |
