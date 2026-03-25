@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shvetmehra/LeedCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/shvetmehra/LeedCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/shvetmehra/LeedCode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/shvetmehra/LeedCode/tree/master/0070-climbing-stairs) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/shvetmehra/LeedCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0870-magic-squares-in-grid](https://github.com/shvetmehra/LeedCode/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/shvetmehra/LeedCode/tree/master/1013-fibonacci-number) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/shvetmehra/LeedCode/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/shvetmehra/LeedCode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/shvetmehra/LeedCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/shvetmehra/LeedCode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/shvetmehra/LeedCode/tree/master/0085-maximal-rectangle) |
 | [0338-counting-bits](https://github.com/shvetmehra/LeedCode/tree/master/0338-counting-bits) |
@@ -887,6 +889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shvetmehra/LeedCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/shvetmehra/LeedCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/shvetmehra/LeedCode/tree/master/1236-n-th-tribonacci-number) |
 ## Minimum Spanning Tree
