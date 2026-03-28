@@ -1,18 +1,21 @@
-# Memoization 
+# Tabulation - Bottoms Up
 class Solution:
-    def func(self, index, nums, dp):
-        if index == 0:
-            return nums[index]
-        if index<0:
-            return 0
-        if dp[index] !=-1:
-            return dp[index]
-
-        pick = nums[index]+self.func(index - 2, nums, dp)
-        notpick = 0+self.func(index-1, nums, dp)
-        dp[index] =  max(pick, notpick)
-        return dp[index]
-
     def rob(self, nums: List[int]) -> int:
-        dp = [-1]*(len(nums))
-        return self.func(len(nums)-1, nums, dp)
+        n = len(nums)
+        dp = [-1]*n
+        dp[0] = nums[0]
+        if n == 0:
+            return 0
+        if n == 1:
+            return nums[0]        
+
+        for index in range (1, n):
+            if index>1:
+                pick = nums[index] + dp[index-2]
+            else:
+                pick = nums[index] +0
+        
+            notpick = 0+dp[index-1]
+
+            dp[index] = max(pick, notpick)
+        return dp[n-1]
