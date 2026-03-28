@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shvetmehra/LeedCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/shvetmehra/LeedCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/shvetmehra/LeedCode/tree/master/0200-number-of-islands) |
+| [0213-house-robber-ii](https://github.com/shvetmehra/LeedCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shvetmehra/LeedCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/shvetmehra/LeedCode/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/shvetmehra/LeedCode/tree/master/0238-product-of-array-except-self) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/shvetmehra/LeedCode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/shvetmehra/LeedCode/tree/master/0085-maximal-rectangle) |
 | [0198-house-robber](https://github.com/shvetmehra/LeedCode/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/shvetmehra/LeedCode/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/shvetmehra/LeedCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/shvetmehra/LeedCode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/shvetmehra/LeedCode/tree/master/0435-non-overlapping-intervals) |
