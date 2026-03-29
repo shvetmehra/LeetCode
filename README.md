@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/shvetmehra/LeedCode/tree/master/2470-removing-stars-from-a-string) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/shvetmehra/LeedCode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2708-find-the-string-with-lcp](https://github.com/shvetmehra/LeedCode/tree/master/2708-find-the-string-with-lcp) |
+| [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/shvetmehra/LeedCode/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/shvetmehra/LeedCode/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3983-minimum-operations-to-equalize-binary-string](https://github.com/shvetmehra/LeedCode/tree/master/3983-minimum-operations-to-equalize-binary-string) |
 | [4055-longest-balanced-substring-i](https://github.com/shvetmehra/LeedCode/tree/master/4055-longest-balanced-substring-i) |
