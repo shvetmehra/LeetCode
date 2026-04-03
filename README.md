@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3956-trionic-array-ii](https://github.com/shvetmehra/LeedCode/tree/master/3956-trionic-array-ii) |
 | [3958-minimum-removals-to-balance-array](https://github.com/shvetmehra/LeedCode/tree/master/3958-minimum-removals-to-balance-array) |
 | [3973-flip-square-submatrix-vertically](https://github.com/shvetmehra/LeedCode/tree/master/3973-flip-square-submatrix-vertically) |
+| [3982-maximum-walls-destroyed-by-robots](https://github.com/shvetmehra/LeedCode/tree/master/3982-maximum-walls-destroyed-by-robots) |
 | [4045-longest-balanced-subarray-i](https://github.com/shvetmehra/LeedCode/tree/master/4045-longest-balanced-subarray-i) |
 ## Binary Search
 |  |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/shvetmehra/LeedCode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3775-separate-squares-ii](https://github.com/shvetmehra/LeedCode/tree/master/3775-separate-squares-ii) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/shvetmehra/LeedCode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
+| [3982-maximum-walls-destroyed-by-robots](https://github.com/shvetmehra/LeedCode/tree/master/3982-maximum-walls-destroyed-by-robots) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3399-find-the-integer-added-to-array-ii](https://github.com/shvetmehra/LeedCode/tree/master/3399-find-the-integer-added-to-array-ii) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/shvetmehra/LeedCode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 | [3958-minimum-removals-to-balance-array](https://github.com/shvetmehra/LeedCode/tree/master/3958-minimum-removals-to-balance-array) |
+| [3982-maximum-walls-destroyed-by-robots](https://github.com/shvetmehra/LeedCode/tree/master/3982-maximum-walls-destroyed-by-robots) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -509,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3407-find-all-possible-stable-binary-arrays-ii](https://github.com/shvetmehra/LeedCode/tree/master/3407-find-all-possible-stable-binary-arrays-ii) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/shvetmehra/LeedCode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3956-trionic-array-ii](https://github.com/shvetmehra/LeedCode/tree/master/3956-trionic-array-ii) |
+| [3982-maximum-walls-destroyed-by-robots](https://github.com/shvetmehra/LeedCode/tree/master/3982-maximum-walls-destroyed-by-robots) |
 ## Linked List
 |  |
 | ------- |
