@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/shvetmehra/LeedCode/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2107-find-unique-binary-string](https://github.com/shvetmehra/LeedCode/tree/master/2107-find-unique-binary-string) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/shvetmehra/LeedCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2197-decode-the-slanted-ciphertext](https://github.com/shvetmehra/LeedCode/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2470-removing-stars-from-a-string](https://github.com/shvetmehra/LeedCode/tree/master/2470-removing-stars-from-a-string) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/shvetmehra/LeedCode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2708-find-the-string-with-lcp](https://github.com/shvetmehra/LeedCode/tree/master/2708-find-the-string-with-lcp) |
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/shvetmehra/LeedCode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/shvetmehra/LeedCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/shvetmehra/LeedCode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
+| [2197-decode-the-slanted-ciphertext](https://github.com/shvetmehra/LeedCode/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2428-equal-row-and-column-pairs](https://github.com/shvetmehra/LeedCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/shvetmehra/LeedCode/tree/master/2470-removing-stars-from-a-string) |
 | [2479-meeting-rooms-iii](https://github.com/shvetmehra/LeedCode/tree/master/2479-meeting-rooms-iii) |
