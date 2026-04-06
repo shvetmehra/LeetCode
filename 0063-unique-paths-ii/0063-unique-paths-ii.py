@@ -1,27 +1,23 @@
-# Memoization
+# Tabulation - Space Optimization
 class Solution:
     def uniquePathsWithObstacles(self, obstacleGrid: List[List[int]]) -> int:
         m = len(obstacleGrid)
         n = len(obstacleGrid[0])
-        dp = [[-1 for _ in range (n)] for _ in range (m)]
+        prev = [0]*n
 
-        if obstacleGrid[0][0] == 1:
+        if obstacleGrid[0][0]==1 or obstacleGrid[m-1][n-1]==1:
             return 0
-        dp[0][0]=1
-        for i in range(0,m):
-            for j in range (0,n):
-                if i==0 and j==0:
-                    continue
-                if obstacleGrid[i][j] ==1:
-                    dp[i][j]=0
-                    continue
-                if i==0:
-                    up = 0
+        for r in range (m):
+            curr = [0]*n
+            for c in range (n):
+                if obstacleGrid[r][c]==1:
+                    curr[c]=0
+                elif r == 0 and c == 0:
+                    curr[c]=1
                 else:
-                    up = dp[i-1][j]
-                if j ==0:
-                    left = 0
-                else:
-                    left = dp[i][j-1]
-                dp[i][j]= up+left
-        return dp[m-1][n-1]
+                    up = prev[c] if r>0 else 0
+                    left = curr[c-1] if c>0 else 0
+                    curr[c] = up+left
+            prev = curr
+        return prev[n-1]
+                
