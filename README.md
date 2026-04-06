@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shvetmehra/LeedCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/shvetmehra/LeedCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/shvetmehra/LeedCode/tree/master/0051-n-queens) |
+| [0063-unique-paths-ii](https://github.com/shvetmehra/LeedCode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/shvetmehra/LeedCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/shvetmehra/LeedCode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/shvetmehra/LeedCode/tree/master/0085-maximal-rectangle) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/shvetmehra/LeedCode/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/shvetmehra/LeedCode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/shvetmehra/LeedCode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/shvetmehra/LeedCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/shvetmehra/LeedCode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/shvetmehra/LeedCode/tree/master/0085-maximal-rectangle) |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shvetmehra/LeedCode/tree/master/0048-rotate-image) |
+| [0063-unique-paths-ii](https://github.com/shvetmehra/LeedCode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/shvetmehra/LeedCode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/shvetmehra/LeedCode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/shvetmehra/LeedCode/tree/master/0130-surrounded-regions) |
