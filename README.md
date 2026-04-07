@@ -576,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/shvetmehra/LeedCode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/shvetmehra/LeedCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/shvetmehra/LeedCode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
+| [2178-walking-robot-simulation-ii](https://github.com/shvetmehra/LeedCode/tree/master/2178-walking-robot-simulation-ii) |
 | [2197-decode-the-slanted-ciphertext](https://github.com/shvetmehra/LeedCode/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2428-equal-row-and-column-pairs](https://github.com/shvetmehra/LeedCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/shvetmehra/LeedCode/tree/master/2470-removing-stars-from-a-string) |
@@ -817,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/shvetmehra/LeedCode/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/shvetmehra/LeedCode/tree/master/0969-number-of-recent-calls) |
 | [1728-fancy-sequence](https://github.com/shvetmehra/LeedCode/tree/master/1728-fancy-sequence) |
+| [2178-walking-robot-simulation-ii](https://github.com/shvetmehra/LeedCode/tree/master/2178-walking-robot-simulation-ii) |
 ## Queue
 |  |
 | ------- |
