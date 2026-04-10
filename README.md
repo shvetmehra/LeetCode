@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3975-xor-after-range-multiplication-queries-ii](https://github.com/shvetmehra/LeedCode/tree/master/3975-xor-after-range-multiplication-queries-ii) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/shvetmehra/LeedCode/tree/master/3982-maximum-walls-destroyed-by-robots) |
 | [4045-longest-balanced-subarray-i](https://github.com/shvetmehra/LeedCode/tree/master/4045-longest-balanced-subarray-i) |
+| [4115-minimum-distance-between-three-equal-elements-i](https://github.com/shvetmehra/LeedCode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4045-longest-balanced-subarray-i](https://github.com/shvetmehra/LeedCode/tree/master/4045-longest-balanced-subarray-i) |
 | [4055-longest-balanced-substring-i](https://github.com/shvetmehra/LeedCode/tree/master/4055-longest-balanced-substring-i) |
 | [4056-longest-balanced-substring-ii](https://github.com/shvetmehra/LeedCode/tree/master/4056-longest-balanced-substring-ii) |
+| [4115-minimum-distance-between-three-equal-elements-i](https://github.com/shvetmehra/LeedCode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 ## Bit Manipulation
 |  |
 | ------- |
