@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/shvetmehra/LeedCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/shvetmehra/LeedCode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/shvetmehra/LeedCode/tree/master/0085-maximal-rectangle) |
+| [0120-triangle](https://github.com/shvetmehra/LeedCode/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/shvetmehra/LeedCode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/shvetmehra/LeedCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shvetmehra/LeedCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/shvetmehra/LeedCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/shvetmehra/LeedCode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/shvetmehra/LeedCode/tree/master/0085-maximal-rectangle) |
+| [0120-triangle](https://github.com/shvetmehra/LeedCode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/shvetmehra/LeedCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/shvetmehra/LeedCode/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/shvetmehra/LeedCode/tree/master/0338-counting-bits) |
