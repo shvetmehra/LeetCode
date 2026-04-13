@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/shvetmehra/LeedCode/tree/master/1833-find-the-highest-altitude) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/shvetmehra/LeedCode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shvetmehra/LeedCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1975-minimum-distance-to-the-target-element](https://github.com/shvetmehra/LeedCode/tree/master/1975-minimum-distance-to-the-target-element) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/shvetmehra/LeedCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shvetmehra/LeedCode/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shvetmehra/LeedCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
