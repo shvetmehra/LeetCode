@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/shvetmehra/LeedCode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3983-minimum-operations-to-equalize-binary-string](https://github.com/shvetmehra/LeedCode/tree/master/3983-minimum-operations-to-equalize-binary-string) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/shvetmehra/LeedCode/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
+| [4168-mirror-distance-of-an-integer](https://github.com/shvetmehra/LeedCode/tree/master/4168-mirror-distance-of-an-integer) |
 ## Enumeration
 |  |
 | ------- |
