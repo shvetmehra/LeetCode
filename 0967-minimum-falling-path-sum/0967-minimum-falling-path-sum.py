@@ -1,22 +1,24 @@
 class Solution:
-    def solve(self, i, j, matrix, dp):
-        if j<0 or j>=len(matrix[0]):
-            return float('inf')
-        if i==0:
-            return matrix[0][j]
-        if dp[i][j]!= None:
-            return dp[i][j]
-        up = matrix[i][j]+self.solve(i-1, j, matrix, dp)
-        left = matrix[i][j] +self.solve(i-1, j-1, matrix, dp)
-        right = matrix[i][j] +self.solve(i-1, j+1, matrix, dp)
-        dp[i][j]=min(up, left, right)
-        return dp[i][j]
-
     def minFallingPathSum(self, matrix: List[List[int]]) -> int:
-        m = len(matrix)
-        n = len(matrix[0])
-        dp = [[None for _ in range (m)] for _ in range(n)] 
+        rows = len(matrix)
+        cols = len(matrix[0])
+        dp = [[None for _ in range(cols)] for _ in range (rows)]
+        for j in range(cols):
+            dp[0][j] = matrix[0][j]
+        for i in range(1, rows):
+            for j in range(cols):
+                if j==0:
+                    left = float('inf')
+                else:
+                    left = matrix[i][j]+dp[i-1][j-1]
+                if j==cols-1:
+                    right =  float('inf')
+                else:
+                    right = matrix[i][j] + dp[i-1][j+1]
+                up = matrix[i][j]+dp[i-1][j]
+                dp[i][j]=min(up, left, right)
         ans = float('inf')
-        for j in range (0, n):
-            ans = min(ans, self.solve(m-1, j, matrix, dp))
-        return ans
+        for j in range(cols):
+            ans = min(ans, dp[rows-1][j])
+        return ans 
+        
