@@ -19,8 +19,4 @@ class Solution:
                 up = prev[j]
                 curr[j] = matrix[i][j]+min(up, left, right)
             prev = curr
-        ans = float('inf')
-        for j in range(cols):
-            ans = min(ans, prev[j])
-        return ans
-        
+        return min(prev)
