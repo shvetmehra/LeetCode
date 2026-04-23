@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-minimum-total-distance-traveled](https://github.com/shvetmehra/LeedCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/shvetmehra/LeedCode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2708-find-the-string-with-lcp](https://github.com/shvetmehra/LeedCode/tree/master/2708-find-the-string-with-lcp) |
+| [2721-sum-of-distances](https://github.com/shvetmehra/LeedCode/tree/master/2721-sum-of-distances) |
 | [2836-neither-minimum-nor-maximum](https://github.com/shvetmehra/LeedCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2846-robot-collisions](https://github.com/shvetmehra/LeedCode/tree/master/2846-robot-collisions) |
 | [3031-construct-product-matrix](https://github.com/shvetmehra/LeedCode/tree/master/3031-construct-product-matrix) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/shvetmehra/LeedCode/tree/master/2107-find-unique-binary-string) |
 | [2428-equal-row-and-column-pairs](https://github.com/shvetmehra/LeedCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2479-meeting-rooms-iii](https://github.com/shvetmehra/LeedCode/tree/master/2479-meeting-rooms-iii) |
+| [2721-sum-of-distances](https://github.com/shvetmehra/LeedCode/tree/master/2721-sum-of-distances) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shvetmehra/LeedCode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/shvetmehra/LeedCode/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/shvetmehra/LeedCode/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shvetmehra/LeedCode/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2102-find-the-middle-index-in-array](https://github.com/shvetmehra/LeedCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/shvetmehra/LeedCode/tree/master/2576-minimum-penalty-for-a-shop) |
+| [2721-sum-of-distances](https://github.com/shvetmehra/LeedCode/tree/master/2721-sum-of-distances) |
 | [3031-construct-product-matrix](https://github.com/shvetmehra/LeedCode/tree/master/3031-construct-product-matrix) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/shvetmehra/LeedCode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3406-find-all-possible-stable-binary-arrays-i](https://github.com/shvetmehra/LeedCode/tree/master/3406-find-all-possible-stable-binary-arrays-i) |
