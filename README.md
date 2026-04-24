@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2708-find-the-string-with-lcp](https://github.com/shvetmehra/LeedCode/tree/master/2708-find-the-string-with-lcp) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shvetmehra/LeedCode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/shvetmehra/LeedCode/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3019-furthest-point-from-origin](https://github.com/shvetmehra/LeedCode/tree/master/3019-furthest-point-from-origin) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/shvetmehra/LeedCode/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3770-lexicographically-smallest-generated-string](https://github.com/shvetmehra/LeedCode/tree/master/3770-lexicographically-smallest-generated-string) |
 | [3983-minimum-operations-to-equalize-binary-string](https://github.com/shvetmehra/LeedCode/tree/master/3983-minimum-operations-to-equalize-binary-string) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/shvetmehra/LeedCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/shvetmehra/LeedCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/shvetmehra/LeedCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [3019-furthest-point-from-origin](https://github.com/shvetmehra/LeedCode/tree/master/3019-furthest-point-from-origin) |
 | [4055-longest-balanced-substring-i](https://github.com/shvetmehra/LeedCode/tree/master/4055-longest-balanced-substring-i) |
 ## Hash Table
 |  |
