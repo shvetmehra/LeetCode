@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/shvetmehra/LeedCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/shvetmehra/LeedCode/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/shvetmehra/LeedCode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3781-maximize-the-distance-between-points-on-a-square](https://github.com/shvetmehra/LeedCode/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 | [3983-minimum-operations-to-equalize-binary-string](https://github.com/shvetmehra/LeedCode/tree/master/3983-minimum-operations-to-equalize-binary-string) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/shvetmehra/LeedCode/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4168-mirror-distance-of-an-integer](https://github.com/shvetmehra/LeedCode/tree/master/4168-mirror-distance-of-an-integer) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/shvetmehra/LeedCode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/shvetmehra/LeedCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3775-separate-squares-ii](https://github.com/shvetmehra/LeedCode/tree/master/3775-separate-squares-ii) |
+| [3781-maximize-the-distance-between-points-on-a-square](https://github.com/shvetmehra/LeedCode/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 | [3849-equal-sum-grid-partition-i](https://github.com/shvetmehra/LeedCode/tree/master/3849-equal-sum-grid-partition-i) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/shvetmehra/LeedCode/tree/master/3850-equal-sum-grid-partition-ii) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/shvetmehra/LeedCode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2101-last-day-where-you-can-still-cross](https://github.com/shvetmehra/LeedCode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/shvetmehra/LeedCode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3775-separate-squares-ii](https://github.com/shvetmehra/LeedCode/tree/master/3775-separate-squares-ii) |
+| [3781-maximize-the-distance-between-points-on-a-square](https://github.com/shvetmehra/LeedCode/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/shvetmehra/LeedCode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/shvetmehra/LeedCode/tree/master/3982-maximum-walls-destroyed-by-robots) |
 ## Divide and Conquer
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3334-apple-redistribution-into-boxes](https://github.com/shvetmehra/LeedCode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/shvetmehra/LeedCode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3399-find-the-integer-added-to-array-ii](https://github.com/shvetmehra/LeedCode/tree/master/3399-find-the-integer-added-to-array-ii) |
+| [3781-maximize-the-distance-between-points-on-a-square](https://github.com/shvetmehra/LeedCode/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/shvetmehra/LeedCode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 | [3958-minimum-removals-to-balance-array](https://github.com/shvetmehra/LeedCode/tree/master/3958-minimum-removals-to-balance-array) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/shvetmehra/LeedCode/tree/master/3982-maximum-walls-destroyed-by-robots) |
@@ -889,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1395-minimum-time-visiting-all-points](https://github.com/shvetmehra/LeedCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/shvetmehra/LeedCode/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3781-maximize-the-distance-between-points-on-a-square](https://github.com/shvetmehra/LeedCode/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 ## Segment Tree
 |  |
 | ------- |
