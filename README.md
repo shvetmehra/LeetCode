@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3351-maximize-happiness-of-selected-children](https://github.com/shvetmehra/LeedCode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/shvetmehra/LeedCode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3399-find-the-integer-added-to-array-ii](https://github.com/shvetmehra/LeedCode/tree/master/3399-find-the-integer-added-to-array-ii) |
+| [3470-maximum-score-from-grid-operations](https://github.com/shvetmehra/LeedCode/tree/master/3470-maximum-score-from-grid-operations) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/shvetmehra/LeedCode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/shvetmehra/LeedCode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/shvetmehra/LeedCode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/shvetmehra/LeedCode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3406-find-all-possible-stable-binary-arrays-i](https://github.com/shvetmehra/LeedCode/tree/master/3406-find-all-possible-stable-binary-arrays-i) |
 | [3407-find-all-possible-stable-binary-arrays-ii](https://github.com/shvetmehra/LeedCode/tree/master/3407-find-all-possible-stable-binary-arrays-ii) |
+| [3470-maximum-score-from-grid-operations](https://github.com/shvetmehra/LeedCode/tree/master/3470-maximum-score-from-grid-operations) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/shvetmehra/LeedCode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3849-equal-sum-grid-partition-i](https://github.com/shvetmehra/LeedCode/tree/master/3849-equal-sum-grid-partition-i) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/shvetmehra/LeedCode/tree/master/3850-equal-sum-grid-partition-ii) |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/shvetmehra/LeedCode/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3406-find-all-possible-stable-binary-arrays-i](https://github.com/shvetmehra/LeedCode/tree/master/3406-find-all-possible-stable-binary-arrays-i) |
 | [3407-find-all-possible-stable-binary-arrays-ii](https://github.com/shvetmehra/LeedCode/tree/master/3407-find-all-possible-stable-binary-arrays-ii) |
+| [3470-maximum-score-from-grid-operations](https://github.com/shvetmehra/LeedCode/tree/master/3470-maximum-score-from-grid-operations) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/shvetmehra/LeedCode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3956-trionic-array-ii](https://github.com/shvetmehra/LeedCode/tree/master/3956-trionic-array-ii) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/shvetmehra/LeedCode/tree/master/3982-maximum-walls-destroyed-by-robots) |
@@ -670,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3031-construct-product-matrix](https://github.com/shvetmehra/LeedCode/tree/master/3031-construct-product-matrix) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/shvetmehra/LeedCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/shvetmehra/LeedCode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3470-maximum-score-from-grid-operations](https://github.com/shvetmehra/LeedCode/tree/master/3470-maximum-score-from-grid-operations) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/shvetmehra/LeedCode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/shvetmehra/LeedCode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3849-equal-sum-grid-partition-i](https://github.com/shvetmehra/LeedCode/tree/master/3849-equal-sum-grid-partition-i) |
