@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/shvetmehra/LeedCode/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [3975-xor-after-range-multiplication-queries-ii](https://github.com/shvetmehra/LeedCode/tree/master/3975-xor-after-range-multiplication-queries-ii) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/shvetmehra/LeedCode/tree/master/3982-maximum-walls-destroyed-by-robots) |
+| [3986-maximum-path-score-in-a-grid](https://github.com/shvetmehra/LeedCode/tree/master/3986-maximum-path-score-in-a-grid) |
 | [4045-longest-balanced-subarray-i](https://github.com/shvetmehra/LeedCode/tree/master/4045-longest-balanced-subarray-i) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/shvetmehra/LeedCode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/shvetmehra/LeedCode/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
@@ -569,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/shvetmehra/LeedCode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3956-trionic-array-ii](https://github.com/shvetmehra/LeedCode/tree/master/3956-trionic-array-ii) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/shvetmehra/LeedCode/tree/master/3982-maximum-walls-destroyed-by-robots) |
+| [3986-maximum-path-score-in-a-grid](https://github.com/shvetmehra/LeedCode/tree/master/3986-maximum-path-score-in-a-grid) |
 ## Linked List
 |  |
 | ------- |
@@ -680,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3850-equal-sum-grid-partition-ii](https://github.com/shvetmehra/LeedCode/tree/master/3850-equal-sum-grid-partition-ii) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/shvetmehra/LeedCode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 | [3973-flip-square-submatrix-vertically](https://github.com/shvetmehra/LeedCode/tree/master/3973-flip-square-submatrix-vertically) |
+| [3986-maximum-path-score-in-a-grid](https://github.com/shvetmehra/LeedCode/tree/master/3986-maximum-path-score-in-a-grid) |
 ## Backtracking
 |  |
 | ------- |
