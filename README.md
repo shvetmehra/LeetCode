@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2836-neither-minimum-nor-maximum](https://github.com/shvetmehra/LeedCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2846-robot-collisions](https://github.com/shvetmehra/LeedCode/tree/master/2846-robot-collisions) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/shvetmehra/LeedCode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2892-check-if-array-is-good](https://github.com/shvetmehra/LeedCode/tree/master/2892-check-if-array-is-good) |
 | [3031-construct-product-matrix](https://github.com/shvetmehra/LeedCode/tree/master/3031-construct-product-matrix) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/shvetmehra/LeedCode/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/shvetmehra/LeedCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-minimum-total-distance-traveled](https://github.com/shvetmehra/LeedCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2836-neither-minimum-nor-maximum](https://github.com/shvetmehra/LeedCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2846-robot-collisions](https://github.com/shvetmehra/LeedCode/tree/master/2846-robot-collisions) |
+| [2892-check-if-array-is-good](https://github.com/shvetmehra/LeedCode/tree/master/2892-check-if-array-is-good) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shvetmehra/LeedCode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/shvetmehra/LeedCode/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3226-minimum-number-game](https://github.com/shvetmehra/LeedCode/tree/master/3226-minimum-number-game) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/shvetmehra/LeedCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2479-meeting-rooms-iii](https://github.com/shvetmehra/LeedCode/tree/master/2479-meeting-rooms-iii) |
 | [2721-sum-of-distances](https://github.com/shvetmehra/LeedCode/tree/master/2721-sum-of-distances) |
+| [2892-check-if-array-is-good](https://github.com/shvetmehra/LeedCode/tree/master/2892-check-if-array-is-good) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shvetmehra/LeedCode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/shvetmehra/LeedCode/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/shvetmehra/LeedCode/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
