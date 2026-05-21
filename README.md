@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/shvetmehra/LeedCode/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3019-furthest-point-from-origin](https://github.com/shvetmehra/LeedCode/tree/master/3019-furthest-point-from-origin) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/shvetmehra/LeedCode/tree/master/3238-minimum-cost-to-convert-string-ii) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/shvetmehra/LeedCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3770-lexicographically-smallest-generated-string](https://github.com/shvetmehra/LeedCode/tree/master/3770-lexicographically-smallest-generated-string) |
 | [3983-minimum-operations-to-equalize-binary-string](https://github.com/shvetmehra/LeedCode/tree/master/3983-minimum-operations-to-equalize-binary-string) |
 | [4055-longest-balanced-substring-i](https://github.com/shvetmehra/LeedCode/tree/master/4055-longest-balanced-substring-i) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/shvetmehra/LeedCode/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/shvetmehra/LeedCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/shvetmehra/LeedCode/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/shvetmehra/LeedCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3334-apple-redistribution-into-boxes](https://github.com/shvetmehra/LeedCode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/shvetmehra/LeedCode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/shvetmehra/LeedCode/tree/master/3351-maximize-happiness-of-selected-children) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shvetmehra/LeedCode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/shvetmehra/LeedCode/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/shvetmehra/LeedCode/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/shvetmehra/LeedCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/shvetmehra/LeedCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/shvetmehra/LeedCode/tree/master/3850-equal-sum-grid-partition-ii) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/shvetmehra/LeedCode/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -1022,6 +1025,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1397-search-suggestions-system](https://github.com/shvetmehra/LeedCode/tree/master/1397-search-suggestions-system) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/shvetmehra/LeedCode/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/shvetmehra/LeedCode/tree/master/3238-minimum-cost-to-convert-string-ii) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/shvetmehra/LeedCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Topological Sort
 |  |
 | ------- |
