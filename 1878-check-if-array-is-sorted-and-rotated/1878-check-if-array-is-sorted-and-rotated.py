@@ -1,17 +1,9 @@
-class Solution(object):
-    def check(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: bool
-        """
-        count = 0
-        n = len(nums)
-
-        for i in range(n):
-            if nums[i]> nums[(i+1)%n]:
-                count +=1
-        if count <=1:
+class Solution:
+    def check(self, nums: List[int]) -> bool:
+        sorted_str = ",".join(map(str, sorted(nums))) + ","
+        nums_str = ",".join(map(str, nums)) + ","
+        D_nums = nums_str + nums_str
+        if sorted_str in D_nums:
             return True
         else:
             return False
-        
