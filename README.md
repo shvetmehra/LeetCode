@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/shvetmehra/LeedCode/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/shvetmehra/LeedCode/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/shvetmehra/LeedCode/tree/master/0443-string-compression) |
+| [0520-detect-capital](https://github.com/shvetmehra/LeedCode/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/shvetmehra/LeedCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/shvetmehra/LeedCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0649-dota2-senate](https://github.com/shvetmehra/LeedCode/tree/master/0649-dota2-senate) |
