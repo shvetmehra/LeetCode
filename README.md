@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/shvetmehra/LeedCode/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/shvetmehra/LeedCode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/shvetmehra/LeedCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0742-to-lower-case](https://github.com/shvetmehra/LeedCode/tree/master/0742-to-lower-case) |
 | [0757-pyramid-transition-matrix](https://github.com/shvetmehra/LeedCode/tree/master/0757-pyramid-transition-matrix) |
 | [0763-special-binary-string](https://github.com/shvetmehra/LeedCode/tree/master/0763-special-binary-string) |
 | [0812-rotate-string](https://github.com/shvetmehra/LeedCode/tree/master/0812-rotate-string) |
