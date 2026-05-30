@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/shvetmehra/LeedCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/shvetmehra/LeedCode/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/shvetmehra/LeedCode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/shvetmehra/LeedCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/shvetmehra/LeedCode/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/shvetmehra/LeedCode/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3983-minimum-operations-to-equalize-binary-string](https://github.com/shvetmehra/LeedCode/tree/master/3983-minimum-operations-to-equalize-binary-string) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/shvetmehra/LeedCode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/shvetmehra/LeedCode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/shvetmehra/LeedCode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/shvetmehra/LeedCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/shvetmehra/LeedCode/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 | [3651-transformed-array](https://github.com/shvetmehra/LeedCode/tree/master/3651-transformed-array) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/shvetmehra/LeedCode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
