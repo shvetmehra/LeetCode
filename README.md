@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/shvetmehra/LeedCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/shvetmehra/LeedCode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2245-destroying-asteroids](https://github.com/shvetmehra/LeedCode/tree/master/2245-destroying-asteroids) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/shvetmehra/LeedCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2428-equal-row-and-column-pairs](https://github.com/shvetmehra/LeedCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2479-meeting-rooms-iii](https://github.com/shvetmehra/LeedCode/tree/master/2479-meeting-rooms-iii) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/shvetmehra/LeedCode/tree/master/2550-words-within-two-edits-of-dictionary) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/shvetmehra/LeedCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/shvetmehra/LeedCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2245-destroying-asteroids](https://github.com/shvetmehra/LeedCode/tree/master/2245-destroying-asteroids) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/shvetmehra/LeedCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2479-meeting-rooms-iii](https://github.com/shvetmehra/LeedCode/tree/master/2479-meeting-rooms-iii) |
 | [2554-minimum-total-distance-traveled](https://github.com/shvetmehra/LeedCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2836-neither-minimum-nor-maximum](https://github.com/shvetmehra/LeedCode/tree/master/2836-neither-minimum-nor-maximum) |
@@ -554,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-maximum-matrix-sum](https://github.com/shvetmehra/LeedCode/tree/master/2089-maximum-matrix-sum) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/shvetmehra/LeedCode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2245-destroying-asteroids](https://github.com/shvetmehra/LeedCode/tree/master/2245-destroying-asteroids) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/shvetmehra/LeedCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2708-find-the-string-with-lcp](https://github.com/shvetmehra/LeedCode/tree/master/2708-find-the-string-with-lcp) |
 | [3334-apple-redistribution-into-boxes](https://github.com/shvetmehra/LeedCode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/shvetmehra/LeedCode/tree/master/3351-maximize-happiness-of-selected-children) |
