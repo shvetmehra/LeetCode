@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/shvetmehra/LeedCode/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/shvetmehra/LeedCode/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3983-minimum-operations-to-equalize-binary-string](https://github.com/shvetmehra/LeedCode/tree/master/3983-minimum-operations-to-equalize-binary-string) |
+| [4128-total-waviness-of-numbers-in-range-ii](https://github.com/shvetmehra/LeedCode/tree/master/4128-total-waviness-of-numbers-in-range-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/shvetmehra/LeedCode/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4168-mirror-distance-of-an-integer](https://github.com/shvetmehra/LeedCode/tree/master/4168-mirror-distance-of-an-integer) |
 ## Enumeration
@@ -648,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3981-jump-game-ix](https://github.com/shvetmehra/LeedCode/tree/master/3981-jump-game-ix) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/shvetmehra/LeedCode/tree/master/3982-maximum-walls-destroyed-by-robots) |
 | [3986-maximum-path-score-in-a-grid](https://github.com/shvetmehra/LeedCode/tree/master/3986-maximum-path-score-in-a-grid) |
+| [4128-total-waviness-of-numbers-in-range-ii](https://github.com/shvetmehra/LeedCode/tree/master/4128-total-waviness-of-numbers-in-range-ii) |
 ## Linked List
 |  |
 | ------- |
