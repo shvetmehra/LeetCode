@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/shvetmehra/LeedCode/tree/master/2634-minimum-common-value) |
 | [2639-separate-the-digits-in-an-array](https://github.com/shvetmehra/LeedCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2708-find-the-string-with-lcp](https://github.com/shvetmehra/LeedCode/tree/master/2708-find-the-string-with-lcp) |
+| [2714-left-and-right-sum-differences](https://github.com/shvetmehra/LeedCode/tree/master/2714-left-and-right-sum-differences) |
 | [2721-sum-of-distances](https://github.com/shvetmehra/LeedCode/tree/master/2721-sum-of-distances) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/shvetmehra/LeedCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2836-neither-minimum-nor-maximum](https://github.com/shvetmehra/LeedCode/tree/master/2836-neither-minimum-nor-maximum) |
@@ -589,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-jump-game-vii](https://github.com/shvetmehra/LeedCode/tree/master/2001-jump-game-vii) |
 | [2102-find-the-middle-index-in-array](https://github.com/shvetmehra/LeedCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/shvetmehra/LeedCode/tree/master/2576-minimum-penalty-for-a-shop) |
+| [2714-left-and-right-sum-differences](https://github.com/shvetmehra/LeedCode/tree/master/2714-left-and-right-sum-differences) |
 | [2721-sum-of-distances](https://github.com/shvetmehra/LeedCode/tree/master/2721-sum-of-distances) |
 | [3031-construct-product-matrix](https://github.com/shvetmehra/LeedCode/tree/master/3031-construct-product-matrix) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/shvetmehra/LeedCode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
