@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3408-count-the-number-of-special-characters-i](https://github.com/shvetmehra/LeedCode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3770-lexicographically-smallest-generated-string](https://github.com/shvetmehra/LeedCode/tree/master/3770-lexicographically-smallest-generated-string) |
 | [3931-process-string-with-special-operations-i](https://github.com/shvetmehra/LeedCode/tree/master/3931-process-string-with-special-operations-i) |
+| [3939-process-string-with-special-operations-ii](https://github.com/shvetmehra/LeedCode/tree/master/3939-process-string-with-special-operations-ii) |
 | [3983-minimum-operations-to-equalize-binary-string](https://github.com/shvetmehra/LeedCode/tree/master/3983-minimum-operations-to-equalize-binary-string) |
 | [4055-longest-balanced-substring-i](https://github.com/shvetmehra/LeedCode/tree/master/4055-longest-balanced-substring-i) |
 | [4056-longest-balanced-substring-ii](https://github.com/shvetmehra/LeedCode/tree/master/4056-longest-balanced-substring-ii) |
@@ -745,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3651-transformed-array](https://github.com/shvetmehra/LeedCode/tree/master/3651-transformed-array) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/shvetmehra/LeedCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3931-process-string-with-special-operations-i](https://github.com/shvetmehra/LeedCode/tree/master/3931-process-string-with-special-operations-i) |
+| [3939-process-string-with-special-operations-ii](https://github.com/shvetmehra/LeedCode/tree/master/3939-process-string-with-special-operations-ii) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/shvetmehra/LeedCode/tree/master/3974-xor-after-range-multiplication-queries-i) |
 ## Matrix
 |  |
