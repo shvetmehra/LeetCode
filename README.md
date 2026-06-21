@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/shvetmehra/LeedCode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/shvetmehra/LeedCode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shvetmehra/LeedCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1961-maximum-ice-cream-bars](https://github.com/shvetmehra/LeedCode/tree/master/1961-maximum-ice-cream-bars) |
 | [1968-maximum-building-height](https://github.com/shvetmehra/LeedCode/tree/master/1968-maximum-building-height) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/shvetmehra/LeedCode/tree/master/1975-minimum-distance-to-the-target-element) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/shvetmehra/LeedCode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/shvetmehra/LeedCode/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shvetmehra/LeedCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/shvetmehra/LeedCode/tree/master/1845-largest-submatrix-with-rearrangements) |
+| [1961-maximum-ice-cream-bars](https://github.com/shvetmehra/LeedCode/tree/master/1961-maximum-ice-cream-bars) |
 | [1968-maximum-building-height](https://github.com/shvetmehra/LeedCode/tree/master/1968-maximum-building-height) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/shvetmehra/LeedCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shvetmehra/LeedCode/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shvetmehra/LeedCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1777-determine-if-two-strings-are-close](https://github.com/shvetmehra/LeedCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/shvetmehra/LeedCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1961-maximum-ice-cream-bars](https://github.com/shvetmehra/LeedCode/tree/master/1961-maximum-ice-cream-bars) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/shvetmehra/LeedCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3019-furthest-point-from-origin](https://github.com/shvetmehra/LeedCode/tree/master/3019-furthest-point-from-origin) |
 | [4055-longest-balanced-substring-i](https://github.com/shvetmehra/LeedCode/tree/master/4055-longest-balanced-substring-i) |
@@ -586,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/shvetmehra/LeedCode/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/shvetmehra/LeedCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/shvetmehra/LeedCode/tree/master/1845-largest-submatrix-with-rearrangements) |
+| [1961-maximum-ice-cream-bars](https://github.com/shvetmehra/LeedCode/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/shvetmehra/LeedCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2089-maximum-matrix-sum](https://github.com/shvetmehra/LeedCode/tree/master/2089-maximum-matrix-sum) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/shvetmehra/LeedCode/tree/master/2199-two-furthest-houses-with-different-colors) |
