@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/shvetmehra/LeedCode/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/shvetmehra/LeedCode/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/shvetmehra/LeedCode/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3964-number-of-zigzag-arrays-ii](https://github.com/shvetmehra/LeedCode/tree/master/3964-number-of-zigzag-arrays-ii) |
 | [3983-minimum-operations-to-equalize-binary-string](https://github.com/shvetmehra/LeedCode/tree/master/3983-minimum-operations-to-equalize-binary-string) |
 | [4128-total-waviness-of-numbers-in-range-ii](https://github.com/shvetmehra/LeedCode/tree/master/4128-total-waviness-of-numbers-in-range-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/shvetmehra/LeedCode/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
@@ -680,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/shvetmehra/LeedCode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3956-trionic-array-ii](https://github.com/shvetmehra/LeedCode/tree/master/3956-trionic-array-ii) |
 | [3962-number-of-zigzag-arrays-i](https://github.com/shvetmehra/LeedCode/tree/master/3962-number-of-zigzag-arrays-i) |
+| [3964-number-of-zigzag-arrays-ii](https://github.com/shvetmehra/LeedCode/tree/master/3964-number-of-zigzag-arrays-ii) |
 | [3981-jump-game-ix](https://github.com/shvetmehra/LeedCode/tree/master/3981-jump-game-ix) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/shvetmehra/LeedCode/tree/master/3982-maximum-walls-destroyed-by-robots) |
 | [3986-maximum-path-score-in-a-grid](https://github.com/shvetmehra/LeedCode/tree/master/3986-maximum-path-score-in-a-grid) |
