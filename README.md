@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shvetmehra/LeedCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/shvetmehra/LeedCode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/shvetmehra/LeedCode/tree/master/1961-maximum-ice-cream-bars) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/shvetmehra/LeedCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1968-maximum-building-height](https://github.com/shvetmehra/LeedCode/tree/master/1968-maximum-building-height) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/shvetmehra/LeedCode/tree/master/1975-minimum-distance-to-the-target-element) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/shvetmehra/LeedCode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/shvetmehra/LeedCode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/shvetmehra/LeedCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/shvetmehra/LeedCode/tree/master/1753-path-with-minimum-effort) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/shvetmehra/LeedCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/shvetmehra/LeedCode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/shvetmehra/LeedCode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2634-minimum-common-value](https://github.com/shvetmehra/LeedCode/tree/master/2634-minimum-common-value) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1845-largest-submatrix-with-rearrangements](https://github.com/shvetmehra/LeedCode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/shvetmehra/LeedCode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/shvetmehra/LeedCode/tree/master/1961-maximum-ice-cream-bars) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/shvetmehra/LeedCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1968-maximum-building-height](https://github.com/shvetmehra/LeedCode/tree/master/1968-maximum-building-height) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/shvetmehra/LeedCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shvetmehra/LeedCode/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -612,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1845-largest-submatrix-with-rearrangements](https://github.com/shvetmehra/LeedCode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/shvetmehra/LeedCode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/shvetmehra/LeedCode/tree/master/1961-maximum-ice-cream-bars) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/shvetmehra/LeedCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/shvetmehra/LeedCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2089-maximum-matrix-sum](https://github.com/shvetmehra/LeedCode/tree/master/2089-maximum-matrix-sum) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/shvetmehra/LeedCode/tree/master/2199-two-furthest-houses-with-different-colors) |
@@ -638,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/shvetmehra/LeedCode/tree/master/1603-running-sum-of-1d-array) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/shvetmehra/LeedCode/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [1833-find-the-highest-altitude](https://github.com/shvetmehra/LeedCode/tree/master/1833-find-the-highest-altitude) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/shvetmehra/LeedCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shvetmehra/LeedCode/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2001-jump-game-vii](https://github.com/shvetmehra/LeedCode/tree/master/2001-jump-game-vii) |
 | [2102-find-the-middle-index-in-array](https://github.com/shvetmehra/LeedCode/tree/master/2102-find-the-middle-index-in-array) |
@@ -752,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shvetmehra/LeedCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shvetmehra/LeedCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shvetmehra/LeedCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/shvetmehra/LeedCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/shvetmehra/LeedCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2001-jump-game-vii](https://github.com/shvetmehra/LeedCode/tree/master/2001-jump-game-vii) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/shvetmehra/LeedCode/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
