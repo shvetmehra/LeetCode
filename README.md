@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3470-maximum-score-from-grid-operations](https://github.com/shvetmehra/LeedCode/tree/master/3470-maximum-score-from-grid-operations) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/shvetmehra/LeedCode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/shvetmehra/LeedCode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/shvetmehra/LeedCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/shvetmehra/LeedCode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/shvetmehra/LeedCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/shvetmehra/LeedCode/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3226-minimum-number-game](https://github.com/shvetmehra/LeedCode/tree/master/3226-minimum-number-game) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/shvetmehra/LeedCode/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/shvetmehra/LeedCode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/shvetmehra/LeedCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/shvetmehra/LeedCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/shvetmehra/LeedCode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 | [4007-maximum-total-subarray-value-ii](https://github.com/shvetmehra/LeedCode/tree/master/4007-maximum-total-subarray-value-ii) |
@@ -833,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/shvetmehra/LeedCode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3470-maximum-score-from-grid-operations](https://github.com/shvetmehra/LeedCode/tree/master/3470-maximum-score-from-grid-operations) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/shvetmehra/LeedCode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/shvetmehra/LeedCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/shvetmehra/LeedCode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3849-equal-sum-grid-partition-i](https://github.com/shvetmehra/LeedCode/tree/master/3849-equal-sum-grid-partition-i) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/shvetmehra/LeedCode/tree/master/3850-equal-sum-grid-partition-ii) |
@@ -1005,6 +1008,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/shvetmehra/LeedCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/shvetmehra/LeedCode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/shvetmehra/LeedCode/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/shvetmehra/LeedCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/shvetmehra/LeedCode/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3983-minimum-operations-to-equalize-binary-string](https://github.com/shvetmehra/LeedCode/tree/master/3983-minimum-operations-to-equalize-binary-string) |
 ## Union Find
@@ -1135,6 +1139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/shvetmehra/LeedCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/shvetmehra/LeedCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/shvetmehra/LeedCode/tree/master/3238-minimum-cost-to-convert-string-ii) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/shvetmehra/LeedCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/shvetmehra/LeedCode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/shvetmehra/LeedCode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 ## Shortest Path
@@ -1145,6 +1150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shvetmehra/LeedCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/shvetmehra/LeedCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/shvetmehra/LeedCode/tree/master/3238-minimum-cost-to-convert-string-ii) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/shvetmehra/LeedCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/shvetmehra/LeedCode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 ## Trie
 |  |
