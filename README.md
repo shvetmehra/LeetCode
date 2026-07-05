@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/shvetmehra/LeedCode/tree/master/1073-number-of-enclaves) |
 | [1127-last-stone-weight](https://github.com/shvetmehra/LeedCode/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/shvetmehra/LeedCode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1234-number-of-paths-with-max-score](https://github.com/shvetmehra/LeedCode/tree/master/1234-number-of-paths-with-max-score) |
 | [1284-four-divisors](https://github.com/shvetmehra/LeedCode/tree/master/1284-four-divisors) |
 | [1306-minimum-absolute-difference](https://github.com/shvetmehra/LeedCode/tree/master/1306-minimum-absolute-difference) |
 | [1311-largest-magic-square](https://github.com/shvetmehra/LeedCode/tree/master/1311-largest-magic-square) |
@@ -694,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0815-champagne-tower](https://github.com/shvetmehra/LeedCode/tree/master/0815-champagne-tower) |
 | [0967-minimum-falling-path-sum](https://github.com/shvetmehra/LeedCode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/shvetmehra/LeedCode/tree/master/1013-fibonacci-number) |
+| [1234-number-of-paths-with-max-score](https://github.com/shvetmehra/LeedCode/tree/master/1234-number-of-paths-with-max-score) |
 | [1236-n-th-tribonacci-number](https://github.com/shvetmehra/LeedCode/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/shvetmehra/LeedCode/tree/master/1250-longest-common-subsequence) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/shvetmehra/LeedCode/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -816,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/shvetmehra/LeedCode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/shvetmehra/LeedCode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/shvetmehra/LeedCode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1234-number-of-paths-with-max-score](https://github.com/shvetmehra/LeedCode/tree/master/1234-number-of-paths-with-max-score) |
 | [1311-largest-magic-square](https://github.com/shvetmehra/LeedCode/tree/master/1311-largest-magic-square) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/shvetmehra/LeedCode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/shvetmehra/LeedCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
