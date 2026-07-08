@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3983-minimum-operations-to-equalize-binary-string](https://github.com/shvetmehra/LeedCode/tree/master/3983-minimum-operations-to-equalize-binary-string) |
 | [4128-total-waviness-of-numbers-in-range-ii](https://github.com/shvetmehra/LeedCode/tree/master/4128-total-waviness-of-numbers-in-range-ii) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shvetmehra/LeedCode/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shvetmehra/LeedCode/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/shvetmehra/LeedCode/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4168-mirror-distance-of-an-integer](https://github.com/shvetmehra/LeedCode/tree/master/4168-mirror-distance-of-an-integer) |
 ## Enumeration
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3983-minimum-operations-to-equalize-binary-string](https://github.com/shvetmehra/LeedCode/tree/master/3983-minimum-operations-to-equalize-binary-string) |
 | [4055-longest-balanced-substring-i](https://github.com/shvetmehra/LeedCode/tree/master/4055-longest-balanced-substring-i) |
 | [4056-longest-balanced-substring-ii](https://github.com/shvetmehra/LeedCode/tree/master/4056-longest-balanced-substring-ii) |
+| [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shvetmehra/LeedCode/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Array
 |  |
 | ------- |
@@ -672,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4056-longest-balanced-substring-ii](https://github.com/shvetmehra/LeedCode/tree/master/4056-longest-balanced-substring-ii) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/shvetmehra/LeedCode/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/shvetmehra/LeedCode/tree/master/4075-count-subarrays-with-majority-element-ii) |
+| [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shvetmehra/LeedCode/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
