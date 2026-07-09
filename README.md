@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/shvetmehra/LeedCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3775-separate-squares-ii](https://github.com/shvetmehra/LeedCode/tree/master/3775-separate-squares-ii) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/shvetmehra/LeedCode/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/shvetmehra/LeedCode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3849-equal-sum-grid-partition-i](https://github.com/shvetmehra/LeedCode/tree/master/3849-equal-sum-grid-partition-i) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/shvetmehra/LeedCode/tree/master/3850-equal-sum-grid-partition-ii) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/shvetmehra/LeedCode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/shvetmehra/LeedCode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3775-separate-squares-ii](https://github.com/shvetmehra/LeedCode/tree/master/3775-separate-squares-ii) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/shvetmehra/LeedCode/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/shvetmehra/LeedCode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/shvetmehra/LeedCode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 | [3919-network-recovery-pathways](https://github.com/shvetmehra/LeedCode/tree/master/3919-network-recovery-pathways) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shvetmehra/LeedCode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
@@ -579,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3405-count-the-number-of-special-characters-ii](https://github.com/shvetmehra/LeedCode/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/shvetmehra/LeedCode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/shvetmehra/LeedCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/shvetmehra/LeedCode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/shvetmehra/LeedCode/tree/master/3850-equal-sum-grid-partition-ii) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/shvetmehra/LeedCode/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [4045-longest-balanced-subarray-i](https://github.com/shvetmehra/LeedCode/tree/master/4045-longest-balanced-subarray-i) |
@@ -1136,6 +1139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/shvetmehra/LeedCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2708-find-the-string-with-lcp](https://github.com/shvetmehra/LeedCode/tree/master/2708-find-the-string-with-lcp) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/shvetmehra/LeedCode/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/shvetmehra/LeedCode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/shvetmehra/LeedCode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 | [3983-minimum-operations-to-equalize-binary-string](https://github.com/shvetmehra/LeedCode/tree/master/3983-minimum-operations-to-equalize-binary-string) |
 ## Graph Theory
@@ -1155,6 +1159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/shvetmehra/LeedCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/shvetmehra/LeedCode/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/shvetmehra/LeedCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/shvetmehra/LeedCode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/shvetmehra/LeedCode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/shvetmehra/LeedCode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 | [3919-network-recovery-pathways](https://github.com/shvetmehra/LeedCode/tree/master/3919-network-recovery-pathways) |
