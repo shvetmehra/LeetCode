@@ -984,6 +984,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/shvetmehra/LeedCode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/shvetmehra/LeedCode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/shvetmehra/LeedCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+| [2793-count-the-number-of-complete-components](https://github.com/shvetmehra/LeedCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/shvetmehra/LeedCode/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
@@ -1023,6 +1024,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/shvetmehra/LeedCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/shvetmehra/LeedCode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/shvetmehra/LeedCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+| [2793-count-the-number-of-complete-components](https://github.com/shvetmehra/LeedCode/tree/master/2793-count-the-number-of-complete-components) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/shvetmehra/LeedCode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/shvetmehra/LeedCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/shvetmehra/LeedCode/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -1138,6 +1140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/shvetmehra/LeedCode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/shvetmehra/LeedCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2708-find-the-string-with-lcp](https://github.com/shvetmehra/LeedCode/tree/master/2708-find-the-string-with-lcp) |
+| [2793-count-the-number-of-complete-components](https://github.com/shvetmehra/LeedCode/tree/master/2793-count-the-number-of-complete-components) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/shvetmehra/LeedCode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/shvetmehra/LeedCode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/shvetmehra/LeedCode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
@@ -1157,6 +1160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/shvetmehra/LeedCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/shvetmehra/LeedCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/shvetmehra/LeedCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+| [2793-count-the-number-of-complete-components](https://github.com/shvetmehra/LeedCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/shvetmehra/LeedCode/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/shvetmehra/LeedCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/shvetmehra/LeedCode/tree/master/3838-path-existence-queries-in-a-graph-i) |
