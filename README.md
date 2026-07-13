@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/shvetmehra/LeedCode/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/shvetmehra/LeedCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0870-magic-squares-in-grid](https://github.com/shvetmehra/LeedCode/tree/master/0870-magic-squares-in-grid) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/shvetmehra/LeedCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0906-walking-robot-simulation](https://github.com/shvetmehra/LeedCode/tree/master/0906-walking-robot-simulation) |
 | [0941-sort-array-by-parity](https://github.com/shvetmehra/LeedCode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/shvetmehra/LeedCode/tree/master/0948-sort-an-array) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/shvetmehra/LeedCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/shvetmehra/LeedCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/shvetmehra/LeedCode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/shvetmehra/LeedCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/shvetmehra/LeedCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1397-search-suggestions-system](https://github.com/shvetmehra/LeedCode/tree/master/1397-search-suggestions-system) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/shvetmehra/LeedCode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
