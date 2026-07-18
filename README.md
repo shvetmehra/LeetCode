@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1968-maximum-building-height](https://github.com/shvetmehra/LeedCode/tree/master/1968-maximum-building-height) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shvetmehra/LeedCode/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2037-count-square-sum-triples](https://github.com/shvetmehra/LeedCode/tree/master/2037-count-square-sum-triples) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/shvetmehra/LeedCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/shvetmehra/LeedCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/shvetmehra/LeedCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/shvetmehra/LeedCode/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-maximum-matrix-sum](https://github.com/shvetmehra/LeedCode/tree/master/2089-maximum-matrix-sum) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/shvetmehra/LeedCode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2102-find-the-middle-index-in-array](https://github.com/shvetmehra/LeedCode/tree/master/2102-find-the-middle-index-in-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/shvetmehra/LeedCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2107-find-unique-binary-string](https://github.com/shvetmehra/LeedCode/tree/master/2107-find-unique-binary-string) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shvetmehra/LeedCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/shvetmehra/LeedCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -1246,6 +1248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/shvetmehra/LeedCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3583-sorted-gcd-pair-queries](https://github.com/shvetmehra/LeedCode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/shvetmehra/LeedCode/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/shvetmehra/LeedCode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
