@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/shvetmehra/LeedCode/tree/master/1044-find-common-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/shvetmehra/LeedCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shvetmehra/LeedCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/shvetmehra/LeedCode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1250-longest-common-subsequence](https://github.com/shvetmehra/LeedCode/tree/master/1250-longest-common-subsequence) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/shvetmehra/LeedCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1397-search-suggestions-system](https://github.com/shvetmehra/LeedCode/tree/master/1397-search-suggestions-system) |
@@ -643,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/shvetmehra/LeedCode/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shvetmehra/LeedCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/shvetmehra/LeedCode/tree/master/0992-delete-columns-to-make-sorted-ii) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/shvetmehra/LeedCode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1285-balance-a-binary-search-tree](https://github.com/shvetmehra/LeedCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/shvetmehra/LeedCode/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/shvetmehra/LeedCode/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
@@ -1074,6 +1076,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/shvetmehra/LeedCode/tree/master/0874-backspace-string-compare) |
 | [0937-online-stock-span](https://github.com/shvetmehra/LeedCode/tree/master/0937-online-stock-span) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/shvetmehra/LeedCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/shvetmehra/LeedCode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/shvetmehra/LeedCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/shvetmehra/LeedCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/shvetmehra/LeedCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -1110,6 +1113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/shvetmehra/LeedCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/shvetmehra/LeedCode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/shvetmehra/LeedCode/tree/master/0937-online-stock-span) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/shvetmehra/LeedCode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Geometry
 |  |
 | ------- |
