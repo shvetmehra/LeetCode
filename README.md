@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/shvetmehra/LeedCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/shvetmehra/LeedCode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3399-find-the-integer-added-to-array-ii](https://github.com/shvetmehra/LeedCode/tree/master/3399-find-the-integer-added-to-array-ii) |
+| [3805-maximize-active-section-with-trade-i](https://github.com/shvetmehra/LeedCode/tree/master/3805-maximize-active-section-with-trade-i) |
 | [3849-equal-sum-grid-partition-i](https://github.com/shvetmehra/LeedCode/tree/master/3849-equal-sum-grid-partition-i) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/shvetmehra/LeedCode/tree/master/3850-equal-sum-grid-partition-ii) |
 | [4055-longest-balanced-substring-i](https://github.com/shvetmehra/LeedCode/tree/master/4055-longest-balanced-substring-i) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3405-count-the-number-of-special-characters-ii](https://github.com/shvetmehra/LeedCode/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/shvetmehra/LeedCode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3770-lexicographically-smallest-generated-string](https://github.com/shvetmehra/LeedCode/tree/master/3770-lexicographically-smallest-generated-string) |
+| [3805-maximize-active-section-with-trade-i](https://github.com/shvetmehra/LeedCode/tree/master/3805-maximize-active-section-with-trade-i) |
 | [3931-process-string-with-special-operations-i](https://github.com/shvetmehra/LeedCode/tree/master/3931-process-string-with-special-operations-i) |
 | [3939-process-string-with-special-operations-ii](https://github.com/shvetmehra/LeedCode/tree/master/3939-process-string-with-special-operations-ii) |
 | [3983-minimum-operations-to-equalize-binary-string](https://github.com/shvetmehra/LeedCode/tree/master/3983-minimum-operations-to-equalize-binary-string) |
