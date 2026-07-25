@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-capitalize-the-title](https://github.com/shvetmehra/LeedCode/tree/master/2235-capitalize-the-title) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/shvetmehra/LeedCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2470-removing-stars-from-a-string](https://github.com/shvetmehra/LeedCode/tree/master/2470-removing-stars-from-a-string) |
+| [2502-sort-the-people](https://github.com/shvetmehra/LeedCode/tree/master/2502-sort-the-people) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/shvetmehra/LeedCode/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/shvetmehra/LeedCode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/shvetmehra/LeedCode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-create-binary-tree-from-descriptions](https://github.com/shvetmehra/LeedCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2428-equal-row-and-column-pairs](https://github.com/shvetmehra/LeedCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2479-meeting-rooms-iii](https://github.com/shvetmehra/LeedCode/tree/master/2479-meeting-rooms-iii) |
+| [2502-sort-the-people](https://github.com/shvetmehra/LeedCode/tree/master/2502-sort-the-people) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/shvetmehra/LeedCode/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2554-minimum-total-distance-traveled](https://github.com/shvetmehra/LeedCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/shvetmehra/LeedCode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/shvetmehra/LeedCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/shvetmehra/LeedCode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2479-meeting-rooms-iii](https://github.com/shvetmehra/LeedCode/tree/master/2479-meeting-rooms-iii) |
+| [2502-sort-the-people](https://github.com/shvetmehra/LeedCode/tree/master/2502-sort-the-people) |
 | [2554-minimum-total-distance-traveled](https://github.com/shvetmehra/LeedCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2836-neither-minimum-nor-maximum](https://github.com/shvetmehra/LeedCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2846-robot-collisions](https://github.com/shvetmehra/LeedCode/tree/master/2846-robot-collisions) |
@@ -597,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-create-binary-tree-from-descriptions](https://github.com/shvetmehra/LeedCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2428-equal-row-and-column-pairs](https://github.com/shvetmehra/LeedCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2479-meeting-rooms-iii](https://github.com/shvetmehra/LeedCode/tree/master/2479-meeting-rooms-iii) |
+| [2502-sort-the-people](https://github.com/shvetmehra/LeedCode/tree/master/2502-sort-the-people) |
 | [2634-minimum-common-value](https://github.com/shvetmehra/LeedCode/tree/master/2634-minimum-common-value) |
 | [2721-sum-of-distances](https://github.com/shvetmehra/LeedCode/tree/master/2721-sum-of-distances) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/shvetmehra/LeedCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
