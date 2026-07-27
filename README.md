@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3919-network-recovery-pathways](https://github.com/shvetmehra/LeedCode/tree/master/3919-network-recovery-pathways) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/shvetmehra/LeedCode/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3952-trionic-array-i](https://github.com/shvetmehra/LeedCode/tree/master/3952-trionic-array-i) |
+| [3954-maximum-balanced-shipments](https://github.com/shvetmehra/LeedCode/tree/master/3954-maximum-balanced-shipments) |
 | [3956-trionic-array-ii](https://github.com/shvetmehra/LeedCode/tree/master/3956-trionic-array-ii) |
 | [3958-minimum-removals-to-balance-array](https://github.com/shvetmehra/LeedCode/tree/master/3958-minimum-removals-to-balance-array) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shvetmehra/LeedCode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
@@ -682,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/shvetmehra/LeedCode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3770-lexicographically-smallest-generated-string](https://github.com/shvetmehra/LeedCode/tree/master/3770-lexicographically-smallest-generated-string) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/shvetmehra/LeedCode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
+| [3954-maximum-balanced-shipments](https://github.com/shvetmehra/LeedCode/tree/master/3954-maximum-balanced-shipments) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shvetmehra/LeedCode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shvetmehra/LeedCode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [4005-maximum-total-subarray-value-i](https://github.com/shvetmehra/LeedCode/tree/master/4005-maximum-total-subarray-value-i) |
@@ -766,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3470-maximum-score-from-grid-operations](https://github.com/shvetmehra/LeedCode/tree/master/3470-maximum-score-from-grid-operations) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/shvetmehra/LeedCode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3919-network-recovery-pathways](https://github.com/shvetmehra/LeedCode/tree/master/3919-network-recovery-pathways) |
+| [3954-maximum-balanced-shipments](https://github.com/shvetmehra/LeedCode/tree/master/3954-maximum-balanced-shipments) |
 | [3956-trionic-array-ii](https://github.com/shvetmehra/LeedCode/tree/master/3956-trionic-array-ii) |
 | [3962-number-of-zigzag-arrays-i](https://github.com/shvetmehra/LeedCode/tree/master/3962-number-of-zigzag-arrays-i) |
 | [3964-number-of-zigzag-arrays-ii](https://github.com/shvetmehra/LeedCode/tree/master/3964-number-of-zigzag-arrays-ii) |
@@ -1100,6 +1103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/shvetmehra/LeedCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/shvetmehra/LeedCode/tree/master/2470-removing-stars-from-a-string) |
 | [2846-robot-collisions](https://github.com/shvetmehra/LeedCode/tree/master/2846-robot-collisions) |
+| [3954-maximum-balanced-shipments](https://github.com/shvetmehra/LeedCode/tree/master/3954-maximum-balanced-shipments) |
 ## Design
 |  |
 | ------- |
@@ -1132,6 +1136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/shvetmehra/LeedCode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/shvetmehra/LeedCode/tree/master/0937-online-stock-span) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/shvetmehra/LeedCode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [3954-maximum-balanced-shipments](https://github.com/shvetmehra/LeedCode/tree/master/3954-maximum-balanced-shipments) |
 ## Geometry
 |  |
 | ------- |
