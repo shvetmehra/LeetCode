@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/shvetmehra/LeedCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/shvetmehra/LeedCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/shvetmehra/LeedCode/tree/master/0189-rotate-array) |
+| [0486-predict-the-winner](https://github.com/shvetmehra/LeedCode/tree/master/0486-predict-the-winner) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/shvetmehra/LeedCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0804-rotated-digits](https://github.com/shvetmehra/LeedCode/tree/master/0804-rotated-digits) |
 | [0870-magic-squares-in-grid](https://github.com/shvetmehra/LeedCode/tree/master/0870-magic-squares-in-grid) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/shvetmehra/LeedCode/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shvetmehra/LeedCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/shvetmehra/LeedCode/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/shvetmehra/LeedCode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/shvetmehra/LeedCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shvetmehra/LeedCode/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/shvetmehra/LeedCode/tree/master/0542-01-matrix) |
@@ -745,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/shvetmehra/LeedCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/shvetmehra/LeedCode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/shvetmehra/LeedCode/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/shvetmehra/LeedCode/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/shvetmehra/LeedCode/tree/master/0542-01-matrix) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/shvetmehra/LeedCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shvetmehra/LeedCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -816,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/shvetmehra/LeedCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shvetmehra/LeedCode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/shvetmehra/LeedCode/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/shvetmehra/LeedCode/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/shvetmehra/LeedCode/tree/master/1013-fibonacci-number) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/shvetmehra/LeedCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Sliding Window
@@ -1291,4 +1295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3435-block-placement-queries](https://github.com/shvetmehra/LeedCode/tree/master/3435-block-placement-queries) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/shvetmehra/LeedCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
