@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1395-minimum-time-visiting-all-points](https://github.com/shvetmehra/LeedCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/shvetmehra/LeedCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/shvetmehra/LeedCode/tree/master/1446-angle-between-hands-of-a-clock) |
+| [1522-stone-game-iii](https://github.com/shvetmehra/LeedCode/tree/master/1522-stone-game-iii) |
 | [1728-fancy-sequence](https://github.com/shvetmehra/LeedCode/tree/master/1728-fancy-sequence) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/shvetmehra/LeedCode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1968-maximum-building-height](https://github.com/shvetmehra/LeedCode/tree/master/1968-maximum-building-height) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/shvetmehra/LeedCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shvetmehra/LeedCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shvetmehra/LeedCode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [1522-stone-game-iii](https://github.com/shvetmehra/LeedCode/tree/master/1522-stone-game-iii) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/shvetmehra/LeedCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/shvetmehra/LeedCode/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/shvetmehra/LeedCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -763,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shvetmehra/LeedCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1466-jump-game-v](https://github.com/shvetmehra/LeedCode/tree/master/1466-jump-game-v) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/shvetmehra/LeedCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [1522-stone-game-iii](https://github.com/shvetmehra/LeedCode/tree/master/1522-stone-game-iii) |
 | [1527-number-of-ways-to-paint-n-3-grid](https://github.com/shvetmehra/LeedCode/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/shvetmehra/LeedCode/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shvetmehra/LeedCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -1299,4 +1302,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/shvetmehra/LeedCode/tree/master/0486-predict-the-winner) |
+| [1522-stone-game-iii](https://github.com/shvetmehra/LeedCode/tree/master/1522-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1522-stone-game-iii](https://github.com/shvetmehra/LeedCode/tree/master/1522-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1522-stone-game-iii](https://github.com/shvetmehra/LeedCode/tree/master/1522-stone-game-iii) |
 <!---LeetCode Topics End-->
