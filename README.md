@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/shvetmehra/LeedCode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3583-sorted-gcd-pair-queries](https://github.com/shvetmehra/LeedCode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/shvetmehra/LeedCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/shvetmehra/LeedCode/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/shvetmehra/LeedCode/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/shvetmehra/LeedCode/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/shvetmehra/LeedCode/tree/master/3824-number-of-unique-xor-triplets-i) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/shvetmehra/LeedCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/shvetmehra/LeedCode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3399-find-the-integer-added-to-array-ii](https://github.com/shvetmehra/LeedCode/tree/master/3399-find-the-integer-added-to-array-ii) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/shvetmehra/LeedCode/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/shvetmehra/LeedCode/tree/master/3805-maximize-active-section-with-trade-i) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/shvetmehra/LeedCode/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3849-equal-sum-grid-partition-i](https://github.com/shvetmehra/LeedCode/tree/master/3849-equal-sum-grid-partition-i) |
