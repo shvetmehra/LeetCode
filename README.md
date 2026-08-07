@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3583-sorted-gcd-pair-queries](https://github.com/shvetmehra/LeedCode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/shvetmehra/LeedCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/shvetmehra/LeedCode/tree/master/3626-smallest-divisible-digit-product-i) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/shvetmehra/LeedCode/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/shvetmehra/LeedCode/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/shvetmehra/LeedCode/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/shvetmehra/LeedCode/tree/master/3824-number-of-unique-xor-triplets-i) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/shvetmehra/LeedCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/shvetmehra/LeedCode/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/shvetmehra/LeedCode/tree/master/3408-count-the-number-of-special-characters-i) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/shvetmehra/LeedCode/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3770-lexicographically-smallest-generated-string](https://github.com/shvetmehra/LeedCode/tree/master/3770-lexicographically-smallest-generated-string) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/shvetmehra/LeedCode/tree/master/3805-maximize-active-section-with-trade-i) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/shvetmehra/LeedCode/tree/master/3812-smallest-palindromic-rearrangement-i) |
@@ -698,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3334-apple-redistribution-into-boxes](https://github.com/shvetmehra/LeedCode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/shvetmehra/LeedCode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/shvetmehra/LeedCode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/shvetmehra/LeedCode/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3770-lexicographically-smallest-generated-string](https://github.com/shvetmehra/LeedCode/tree/master/3770-lexicographically-smallest-generated-string) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/shvetmehra/LeedCode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 | [3954-maximum-balanced-shipments](https://github.com/shvetmehra/LeedCode/tree/master/3954-maximum-balanced-shipments) |
@@ -936,6 +939,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0757-pyramid-transition-matrix](https://github.com/shvetmehra/LeedCode/tree/master/0757-pyramid-transition-matrix) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/shvetmehra/LeedCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/shvetmehra/LeedCode/tree/master/2107-find-unique-binary-string) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/shvetmehra/LeedCode/tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Tree
 |  |
 | ------- |
@@ -1300,6 +1304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/shvetmehra/LeedCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3583-sorted-gcd-pair-queries](https://github.com/shvetmehra/LeedCode/tree/master/3583-sorted-gcd-pair-queries) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/shvetmehra/LeedCode/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/shvetmehra/LeedCode/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/shvetmehra/LeedCode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Binary Indexed Tree
