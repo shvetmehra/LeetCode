@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/shvetmehra/LeedCode/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/shvetmehra/LeedCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3221-find-the-peaks](https://github.com/shvetmehra/LeedCode/tree/master/3221-find-the-peaks) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shvetmehra/LeedCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3226-minimum-number-game](https://github.com/shvetmehra/LeedCode/tree/master/3226-minimum-number-game) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shvetmehra/LeedCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/shvetmehra/LeedCode/tree/master/3238-minimum-cost-to-convert-string-ii) |
@@ -631,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2777-find-the-distinct-difference-array](https://github.com/shvetmehra/LeedCode/tree/master/2777-find-the-distinct-difference-array) |
 | [2892-check-if-array-is-good](https://github.com/shvetmehra/LeedCode/tree/master/2892-check-if-array-is-good) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shvetmehra/LeedCode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shvetmehra/LeedCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shvetmehra/LeedCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/shvetmehra/LeedCode/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/shvetmehra/LeedCode/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -852,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-jump-game-vii](https://github.com/shvetmehra/LeedCode/tree/master/2001-jump-game-vii) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/shvetmehra/LeedCode/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shvetmehra/LeedCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shvetmehra/LeedCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/shvetmehra/LeedCode/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3958-minimum-removals-to-balance-array](https://github.com/shvetmehra/LeedCode/tree/master/3958-minimum-removals-to-balance-array) |
 ## Simulation
