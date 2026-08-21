@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/shvetmehra/LeedCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/shvetmehra/LeedCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/shvetmehra/LeedCode/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/shvetmehra/LeedCode/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/shvetmehra/LeedCode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3583-sorted-gcd-pair-queries](https://github.com/shvetmehra/LeedCode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/shvetmehra/LeedCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3334-apple-redistribution-into-boxes](https://github.com/shvetmehra/LeedCode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/shvetmehra/LeedCode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/shvetmehra/LeedCode/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/shvetmehra/LeedCode/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/shvetmehra/LeedCode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3399-find-the-integer-added-to-array-ii](https://github.com/shvetmehra/LeedCode/tree/master/3399-find-the-integer-added-to-array-ii) |
 | [3435-block-placement-queries](https://github.com/shvetmehra/LeedCode/tree/master/3435-block-placement-queries) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2101-last-day-where-you-can-still-cross](https://github.com/shvetmehra/LeedCode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2634-minimum-common-value](https://github.com/shvetmehra/LeedCode/tree/master/2634-minimum-common-value) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/shvetmehra/LeedCode/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/shvetmehra/LeedCode/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3435-block-placement-queries](https://github.com/shvetmehra/LeedCode/tree/master/3435-block-placement-queries) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/shvetmehra/LeedCode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3583-sorted-gcd-pair-queries](https://github.com/shvetmehra/LeedCode/tree/master/3583-sorted-gcd-pair-queries) |
@@ -674,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/shvetmehra/LeedCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/shvetmehra/LeedCode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/shvetmehra/LeedCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/shvetmehra/LeedCode/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/shvetmehra/LeedCode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/shvetmehra/LeedCode/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/shvetmehra/LeedCode/tree/master/3820-number-of-unique-xor-triplets-ii) |
@@ -1284,6 +1288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/shvetmehra/LeedCode/tree/master/0062-unique-paths) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/shvetmehra/LeedCode/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3583-sorted-gcd-pair-queries](https://github.com/shvetmehra/LeedCode/tree/master/3583-sorted-gcd-pair-queries) |
 ## Rolling Hash
 |  |
@@ -1312,6 +1317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/shvetmehra/LeedCode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/shvetmehra/LeedCode/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3583-sorted-gcd-pair-queries](https://github.com/shvetmehra/LeedCode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/shvetmehra/LeedCode/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/shvetmehra/LeedCode/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
