@@ -829,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/shvetmehra/LeedCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/shvetmehra/LeedCode/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/shvetmehra/LeedCode/tree/master/0908-middle-of-the-linked-list) |
+| [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/shvetmehra/LeedCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shvetmehra/LeedCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/shvetmehra/LeedCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/shvetmehra/LeedCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
