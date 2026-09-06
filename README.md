@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/shvetmehra/LeedCode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/shvetmehra/LeedCode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/shvetmehra/LeedCode/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/shvetmehra/LeedCode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/shvetmehra/LeedCode/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/shvetmehra/LeedCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/shvetmehra/LeedCode/tree/master/0127-word-ladder) |
@@ -765,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/shvetmehra/LeedCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/shvetmehra/LeedCode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/shvetmehra/LeedCode/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/shvetmehra/LeedCode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/shvetmehra/LeedCode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/shvetmehra/LeedCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/shvetmehra/LeedCode/tree/master/0213-house-robber-ii) |
