@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/shvetmehra/LeedCode/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/shvetmehra/LeedCode/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/shvetmehra/LeedCode/tree/master/3824-number-of-unique-xor-triplets-i) |
+| [3831-find-x-value-of-array-i](https://github.com/shvetmehra/LeedCode/tree/master/3831-find-x-value-of-array-i) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/shvetmehra/LeedCode/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/shvetmehra/LeedCode/tree/master/3859-maximum-product-of-two-digits) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/shvetmehra/LeedCode/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/shvetmehra/LeedCode/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/shvetmehra/LeedCode/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/shvetmehra/LeedCode/tree/master/3824-number-of-unique-xor-triplets-i) |
+| [3831-find-x-value-of-array-i](https://github.com/shvetmehra/LeedCode/tree/master/3831-find-x-value-of-array-i) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/shvetmehra/LeedCode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3849-equal-sum-grid-partition-i](https://github.com/shvetmehra/LeedCode/tree/master/3849-equal-sum-grid-partition-i) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/shvetmehra/LeedCode/tree/master/3850-equal-sum-grid-partition-ii) |
@@ -806,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3407-find-all-possible-stable-binary-arrays-ii](https://github.com/shvetmehra/LeedCode/tree/master/3407-find-all-possible-stable-binary-arrays-ii) |
 | [3470-maximum-score-from-grid-operations](https://github.com/shvetmehra/LeedCode/tree/master/3470-maximum-score-from-grid-operations) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/shvetmehra/LeedCode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
+| [3831-find-x-value-of-array-i](https://github.com/shvetmehra/LeedCode/tree/master/3831-find-x-value-of-array-i) |
 | [3919-network-recovery-pathways](https://github.com/shvetmehra/LeedCode/tree/master/3919-network-recovery-pathways) |
 | [3954-maximum-balanced-shipments](https://github.com/shvetmehra/LeedCode/tree/master/3954-maximum-balanced-shipments) |
 | [3956-trionic-array-ii](https://github.com/shvetmehra/LeedCode/tree/master/3956-trionic-array-ii) |
