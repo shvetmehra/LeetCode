@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/shvetmehra/LeedCode/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/shvetmehra/LeedCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/shvetmehra/LeedCode/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/shvetmehra/LeedCode/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/shvetmehra/LeedCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shvetmehra/LeedCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/shvetmehra/LeedCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -958,6 +959,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/shvetmehra/LeedCode/tree/master/0052-n-queens-ii) |
 | [0126-word-ladder-ii](https://github.com/shvetmehra/LeedCode/tree/master/0126-word-ladder-ii) |
 | [0216-combination-sum-iii](https://github.com/shvetmehra/LeedCode/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/shvetmehra/LeedCode/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/shvetmehra/LeedCode/tree/master/0401-binary-watch) |
 | [0757-pyramid-transition-matrix](https://github.com/shvetmehra/LeedCode/tree/master/0757-pyramid-transition-matrix) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/shvetmehra/LeedCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -1095,6 +1097,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/shvetmehra/LeedCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/shvetmehra/LeedCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shvetmehra/LeedCode/tree/master/0210-course-schedule-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/shvetmehra/LeedCode/tree/master/0301-remove-invalid-parentheses) |
 | [0399-evaluate-division](https://github.com/shvetmehra/LeedCode/tree/master/0399-evaluate-division) |
 | [0542-01-matrix](https://github.com/shvetmehra/LeedCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/shvetmehra/LeedCode/tree/master/0547-number-of-provinces) |
